@@ -1,0 +1,141 @@
+---
+title: "Problem Set 3"
+output: html_notebook
+---
+
+This problem set covers concepts from chapters 3.1-3.4 in *Humanities Data in R*, including:
+
+* Tables
+* Histograms
+* Quantiles
+
+
+# Writing Code
+For each of the following questions, write the code you need to solve the problem in the provided code block. Running each code block should result in a returned value-- either the result of a calcuation, or the printing of a variable. 
+
+1. Load the`golden_globe_awards_2010-2020.csv` file.
+```{r}
+
+```
+
+2. Create a table that will show how many nominees each category has had.
+
+```{r paged.print=TRUE}
+
+```
+
+3. Reorder your table in decreasing order.
+```{r}
+
+```
+
+4. Get the counts from the table as a numeric vector
+```{r}
+
+```
+
+5. Select just the names of the awards, ordered from fewest to most nominations.
+```{r}
+
+```
+
+6. Notice that most of the awards have 55 nominees in this eleven-year span. Some have a bit more and some have far fewer. Get a table with the category and year to see which years are the outliers.
+```{r}
+
+```
+
+7. Now let's see what the most-nominated films and TV series are. Create a table from the `film` column to see that. Put it in descending order.
+```{r}
+
+```
+
+8. Notice in the table above that there are hundreds of blank entries. You can see this in the CSV viewed directly, as well. Open the CSV or dataframe and figure out why so many are blank. Why, and how can we fix it so our table of most-moninated shows/films becomes meaningful?
+
+
+
+9. Implement your solution. Hint: what column can you use to fill in the blanks?
+```{r}
+
+
+```
+
+10. Re-run your code from question 6 to see the most-nominated media. 
+
+
+
+11. What are the top 3? What might make comparing film and TV unfair?
+
+
+12. Make a histogram showing the frequency of the number of nominations. The x axis should be the number of nominations a thing has recieved, and the y axis should be the number of things that have been nominated that many times.
+```{r}
+
+
+```
+
+13. Create a new column that labels each nominee as either "TV" or "Film" to allow easy selection of only TV or only film. Hint: Look at the data and see what in the `category` column you can use to distinguish the two. Use `grepl()` to search for the distinguishing feature and `ifelse()` to do the assignment.
+```{r}
+
+
+```
+
+14. Create two `subset()`s of the whole dataset, one for TV and one for film.
+```{r}
+
+
+```
+
+15. Show a histogram of both subsets. What does viewing the data this way show us that viewing the combined histogram didn't?
+```{r}
+
+
+```
+
+15. Limit the TV histogram to only shows with more than one nomination.
+```{r}
+
+```
+
+16. Change the number of breaks to something bigger or smaller.
+```{r}
+
+```
+
+
+17. Get the quantiles for number of nominations of TV, then do the same for film. Note: it won't return both unless you use `print`.
+```{r}
+
+```
+
+18. Explain the results you got in the previous problem. What does this tell us about the data, especially about the difference between TV and Film? In what direction are the results skewed?
+ 
+ 
+19. Instead of quantiles, get the deciles for both TV and film
+```{r}
+
+```
+
+20. Use `quantile` to get a table of all the nominated shows above the 90th percentile.
+```{r}
+
+```
+
+21. Get just the names from the last table.
+```{r}
+
+```
+
+22. Create a subset of the whole dataframe that selects all the rows for shows above the 90th percentile in nominations. 
+```{r}
+
+
+```
+
+23. Order the above subset by show title
+```{r}
+
+```
+
+24. Get a table that shows the category breakdown of the 90%ile nominated shows (i.e. get a table counts of category based on the 90%ile table you already built).
+```{r}
+
+```

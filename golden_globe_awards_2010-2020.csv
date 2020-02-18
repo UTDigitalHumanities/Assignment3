@@ -1,0 +1,1391 @@
+year_film,year_award,ceremony,category,nominee,film,win
+2009,2010,67,Best Motion Picture - Drama,Avatar,,TRUE
+2009,2010,67,Best Motion Picture - Drama,"Hurt Locker, The",,FALSE
+2009,2010,67,Best Motion Picture - Drama,Inglourious Basterds,,FALSE
+2009,2010,67,Best Motion Picture - Drama,Precious: Based On The Novel Push By Sapphire,,FALSE
+2009,2010,67,Best Motion Picture - Drama,Up In The Air,,FALSE
+2009,2010,67,Best Motion Picture - Musical or Comedy,"Hangover, The",,TRUE
+2009,2010,67,Best Motion Picture - Musical or Comedy,(500) Days of Summer,,FALSE
+2009,2010,67,Best Motion Picture - Musical or Comedy,It's Complicated,,FALSE
+2009,2010,67,Best Motion Picture - Musical or Comedy,Julie & Julia,,FALSE
+2009,2010,67,Best Motion Picture - Musical or Comedy,Nine,,FALSE
+2009,2010,67,Best Performance by an Actress in a Motion Picture - Drama,Sandra Bullock,"Blind Side, The",TRUE
+2009,2010,67,Best Performance by an Actress in a Motion Picture - Drama,Emily Blunt,"Young Victoria, The",FALSE
+2009,2010,67,Best Performance by an Actress in a Motion Picture - Drama,Helen Mirren,"Last Station, The",FALSE
+2009,2010,67,Best Performance by an Actress in a Motion Picture - Drama,Carey Mulligan,"Education, An",FALSE
+2009,2010,67,Best Performance by an Actress in a Motion Picture - Drama,Gabourey Sidibe,Precious: Based On The Novel Push By Sapphire,FALSE
+2009,2010,67,Best Performance by an Actor in a Motion Picture - Drama,Jeff Bridges,Crazy Heart,TRUE
+2009,2010,67,Best Performance by an Actor in a Motion Picture - Drama,George Clooney,Up In The Air,FALSE
+2009,2010,67,Best Performance by an Actor in a Motion Picture - Drama,Colin Firth,A Single Man,FALSE
+2009,2010,67,Best Performance by an Actor in a Motion Picture - Drama,Morgan Freeman,Invictus,FALSE
+2009,2010,67,Best Performance by an Actor in a Motion Picture - Drama,Tobey Maguire,Brothers,FALSE
+2009,2010,67,Best Performance by an Actress in a Motion Picture - Musical or Comedy,Meryl Streep,Julie & Julia,TRUE
+2009,2010,67,Best Performance by an Actress in a Motion Picture - Musical or Comedy,Sandra Bullock,"Proposal, The",FALSE
+2009,2010,67,Best Performance by an Actress in a Motion Picture - Musical or Comedy,Marion Cotillard,Nine,FALSE
+2009,2010,67,Best Performance by an Actress in a Motion Picture - Musical or Comedy,Julia Roberts,Duplicity,FALSE
+2009,2010,67,Best Performance by an Actress in a Motion Picture - Musical or Comedy,Meryl Streep,It's Complicated,FALSE
+2009,2010,67,Best Performance by an Actor in a Motion Picture - Musical or Comedy,Robert Downey Jr.,Sherlock Holmes,TRUE
+2009,2010,67,Best Performance by an Actor in a Motion Picture - Musical or Comedy,Matt Damon,The Informant!,FALSE
+2009,2010,67,Best Performance by an Actor in a Motion Picture - Musical or Comedy,Daniel Day-Lewis,Nine,FALSE
+2009,2010,67,Best Performance by an Actor in a Motion Picture - Musical or Comedy,Joseph Gordon-Levitt,(500) Days of Summer,FALSE
+2009,2010,67,Best Performance by an Actor in a Motion Picture - Musical or Comedy,Michael Stuhlbarg,"Serious Man, A",FALSE
+2009,2010,67,Best Performance by an Actress in a Supporting Role in any Motion Picture,Mo'Nique,Precious: Based On The Novel Push By Sapphire,TRUE
+2009,2010,67,Best Performance by an Actress in a Supporting Role in any Motion Picture,Vera Farmiga,Up In The Air,FALSE
+2009,2010,67,Best Performance by an Actress in a Supporting Role in any Motion Picture,Anna Kendrick,Up In The Air,FALSE
+2009,2010,67,Best Performance by an Actress in a Supporting Role in any Motion Picture,Julianne Moore,A Single Man,FALSE
+2009,2010,67,Best Performance by an Actress in a Supporting Role in any Motion Picture,Penélope Cruz,Nine,FALSE
+2009,2010,67,Best Performance by an Actor in a Supporting Role in any Motion Picture,Christoph Waltz,Inglourious Basterds,TRUE
+2009,2010,67,Best Performance by an Actor in a Supporting Role in any Motion Picture,Matt Damon,Invictus,FALSE
+2009,2010,67,Best Performance by an Actor in a Supporting Role in any Motion Picture,Woody Harrelson,"Messenger, The",FALSE
+2009,2010,67,Best Performance by an Actor in a Supporting Role in any Motion Picture,Christopher Plummer,"Last Station, The",FALSE
+2009,2010,67,Best Performance by an Actor in a Supporting Role in any Motion Picture,Stanley Tucci,"Lovely Bones, The",FALSE
+2009,2010,67,Best Director - Motion Picture,James Cameron,Avatar,TRUE
+2009,2010,67,Best Director - Motion Picture,Kathryn Bigelow,"Hurt Locker, The",FALSE
+2009,2010,67,Best Director - Motion Picture,Jason Reitman,Up In The Air,FALSE
+2009,2010,67,Best Director - Motion Picture,Quentin Tarantino,Inglourious Basterds,FALSE
+2009,2010,67,Best Director - Motion Picture,Clint Eastwood,Invictus,FALSE
+2009,2010,67,Best Screenplay - Motion Picture,"Jason Reitman, Sheldon Turner",Up In The Air,TRUE
+2009,2010,67,Best Screenplay - Motion Picture,"Neill Blomkamp, Terri Tatchell",District 9,FALSE
+2009,2010,67,Best Screenplay - Motion Picture,Mark Boal,"Hurt Locker, The",FALSE
+2009,2010,67,Best Screenplay - Motion Picture,Nancy Meyers,It's Complicated,FALSE
+2009,2010,67,Best Screenplay - Motion Picture,Quentin Tarantino,Inglourious Basterds,FALSE
+2009,2010,67,Best Motion Picture - Animated,Up,,TRUE
+2009,2010,67,Best Motion Picture - Animated,Coraline,,FALSE
+2009,2010,67,Best Motion Picture - Animated,Fantastic Mr. Fox,,FALSE
+2009,2010,67,Best Motion Picture - Animated,"Princess And The Frog, The",,FALSE
+2009,2010,67,Best Motion Picture - Animated,Cloudy With A Chance Of Meatballs,,FALSE
+2009,2010,67,Best Motion Picture - Foreign Language,The White Ribbon (Das Weisse Band - Eine Deutsche Kindergeschichte),"Germany, Michael Haneke",TRUE
+2009,2010,67,Best Motion Picture - Foreign Language,Baarìa,"Italy, Giuseppe Tornatore",FALSE
+2009,2010,67,Best Motion Picture - Foreign Language,Broken Embraces,"Spain, Pedro Almodóvar",FALSE
+2009,2010,67,Best Motion Picture - Foreign Language,The Maid (La Nana),"Chile, Sebastián Silva",FALSE
+2009,2010,67,Best Motion Picture - Foreign Language,A Prophet (Un Prophete),"France, Jacques Audiard",FALSE
+2009,2010,67,Best Original Score - Motion Picture,Michael Giacchino,Up,TRUE
+2009,2010,67,Best Original Score - Motion Picture,Marvin Hamlisch,The Informant!,FALSE
+2009,2010,67,Best Original Score - Motion Picture,James Horner,Avatar,FALSE
+2009,2010,67,Best Original Score - Motion Picture,Abel Korzeniowski,A Single Man,FALSE
+2009,2010,67,Best Original Score - Motion Picture,"Karen O, Carter Burwell",Where The Wild Things Are,FALSE
+2009,2010,67,Best Original Song - Motion Picture,"""The Weary Kind (Theme From Crazy Heart)"", T Bone Burnett, Ryan Bingham",Crazy Heart,TRUE
+2009,2010,67,Best Original Song - Motion Picture,"""Winter"", U2",Brothers,FALSE
+2009,2010,67,Best Original Song - Motion Picture,"""Cinema Italiano"", Maury Yeston",Nine,FALSE
+2009,2010,67,Best Original Song - Motion Picture,"""(I Want To) Come Home"", Paul McCartney",Everybody's Fine,FALSE
+2009,2010,67,Best Original Song - Motion Picture,"I See You, James Horner, Simon Franglen, Kuk Harrell",Avatar,FALSE
+2009,2010,67,Best Television Series - Drama,Mad Men,,TRUE
+2009,2010,67,Best Television Series - Drama,Big Love,,FALSE
+2009,2010,67,Best Television Series - Drama,Dexter,,FALSE
+2009,2010,67,Best Television Series - Drama,House,,FALSE
+2009,2010,67,Best Television Series - Drama,True Blood,,FALSE
+2009,2010,67,Best Television Series - Musical or Comedy,Glee,,TRUE
+2009,2010,67,Best Television Series - Musical or Comedy,"Office, The",,FALSE
+2009,2010,67,Best Television Series - Musical or Comedy,30 Rock,,FALSE
+2009,2010,67,Best Television Series - Musical or Comedy,Entourage,,FALSE
+2009,2010,67,Best Television Series - Musical or Comedy,Modern Family,,FALSE
+2009,2010,67,Best Television Limited Series or Motion Picture Made for Television,Grey Gardens,,TRUE
+2009,2010,67,Best Television Limited Series or Motion Picture Made for Television,Georgia O'Keeffe,,FALSE
+2009,2010,67,Best Television Limited Series or Motion Picture Made for Television,Into The Storm,,FALSE
+2009,2010,67,Best Television Limited Series or Motion Picture Made for Television,Little Dorrit,,FALSE
+2009,2010,67,Best Television Limited Series or Motion Picture Made for Television,Taking Chance,,FALSE
+2009,2010,67,Best Performance by an Actress in a Limited Series or a Motion Picture Made for Television,Drew Barrymore,Grey Gardens,TRUE
+2009,2010,67,Best Performance by an Actress in a Limited Series or a Motion Picture Made for Television,Jessica Lange,Grey Gardens,FALSE
+2009,2010,67,Best Performance by an Actress in a Limited Series or a Motion Picture Made for Television,Anna Paquin,The Courageous Heart of Irena Sendler,FALSE
+2009,2010,67,Best Performance by an Actress in a Limited Series or a Motion Picture Made for Television,Sigourney Weaver,Prayers For Bobby,FALSE
+2009,2010,67,Best Performance by an Actress in a Limited Series or a Motion Picture Made for Television,Joan Allen,Georgia O'Keeffe,FALSE
+2009,2010,67,Best Performance by an Actor in a Limited Series or a Motion Picture Made for Television,Kevin Bacon,Taking Chance,TRUE
+2009,2010,67,Best Performance by an Actor in a Limited Series or a Motion Picture Made for Television,Kenneth Branagh,Wallander: One Step Behind,FALSE
+2009,2010,67,Best Performance by an Actor in a Limited Series or a Motion Picture Made for Television,Chiwetel Ejiofor,Endgame,FALSE
+2009,2010,67,Best Performance by an Actor in a Limited Series or a Motion Picture Made for Television,Brendan Gleeson,Into The Storm,FALSE
+2009,2010,67,Best Performance by an Actor in a Limited Series or a Motion Picture Made for Television,Jeremy Irons,Georgia O'Keeffe,FALSE
+2009,2010,67,Best Performance by an Actress In A Television Series - Drama,Julianna Margulies,The Good Wife,TRUE
+2009,2010,67,Best Performance by an Actress In A Television Series - Drama,Glenn Close,Damages,FALSE
+2009,2010,67,Best Performance by an Actress In A Television Series - Drama,January Jones,Mad Men,FALSE
+2009,2010,67,Best Performance by an Actress In A Television Series - Drama,Anna Paquin,True Blood,FALSE
+2009,2010,67,Best Performance by an Actress In A Television Series - Drama,Kyra Sedgwick,"Closer, The",FALSE
+2009,2010,67,Best Performance by an Actor In A Television Series - Drama,Michael C. Hall,Dexter,TRUE
+2009,2010,67,Best Performance by an Actor In A Television Series - Drama,Simon Baker,"Mentalist, The",FALSE
+2009,2010,67,Best Performance by an Actor In A Television Series - Drama,Jon Hamm,Mad Men,FALSE
+2009,2010,67,Best Performance by an Actor In A Television Series - Drama,Hugh Laurie,House,FALSE
+2009,2010,67,Best Performance by an Actor In A Television Series - Drama,Bill Paxton,Big Love,FALSE
+2009,2010,67,Best Performance by an Actress in a Television Series - Musical or Comedy,Toni Collette,United States Of Tara,TRUE
+2009,2010,67,Best Performance by an Actress in a Television Series - Musical or Comedy,Courteney Cox,Cougar Town,FALSE
+2009,2010,67,Best Performance by an Actress in a Television Series - Musical or Comedy,Edie Falco,Nurse Jackie,FALSE
+2009,2010,67,Best Performance by an Actress in a Television Series - Musical or Comedy,Tina Fey,30 Rock,FALSE
+2009,2010,67,Best Performance by an Actress in a Television Series - Musical or Comedy,Lea Michele,Glee,FALSE
+2009,2010,67,Best Performance by an Actor in a Television Series - Musical or Comedy,Alec Baldwin,30 Rock,TRUE
+2009,2010,67,Best Performance by an Actor in a Television Series - Musical or Comedy,Steve Carell,"Office, The",FALSE
+2009,2010,67,Best Performance by an Actor in a Television Series - Musical or Comedy,David Duchovny,Californication,FALSE
+2009,2010,67,Best Performance by an Actor in a Television Series - Musical or Comedy,Thomas Jane,Hung,FALSE
+2009,2010,67,Best Performance by an Actor in a Television Series - Musical or Comedy,Matthew Morrison,Glee,FALSE
+2009,2010,67,"Best Performance by an Actress in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Chloë Sevigny,Big Love,TRUE
+2009,2010,67,"Best Performance by an Actress in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Jane Adams,Hung,FALSE
+2009,2010,67,"Best Performance by an Actress in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Rose Byrne,Damages,FALSE
+2009,2010,67,"Best Performance by an Actress in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Jane Lynch,Glee,FALSE
+2009,2010,67,"Best Performance by an Actress in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Janet McTeer,Into The Storm,FALSE
+2009,2010,67,"Best Performance by an Actor in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",John Lithgow,Dexter,TRUE
+2009,2010,67,"Best Performance by an Actor in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Michael Emerson,Lost,FALSE
+2009,2010,67,"Best Performance by an Actor in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Neil Patrick Harris,How I Met Your Mother,FALSE
+2009,2010,67,"Best Performance by an Actor in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",William Hurt,Damages,FALSE
+2009,2010,67,"Best Performance by an Actor in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Jeremy Piven,Entourage,FALSE
+2009,2010,67,Cecil B. deMille Award,Martin Scorsese,,FALSE
+2010,2011,68,Best Motion Picture - Drama,The Social Network,,TRUE
+2010,2011,68,Best Motion Picture - Drama,Black Swan,,FALSE
+2010,2011,68,Best Motion Picture - Drama,"Fighter, The",,FALSE
+2010,2011,68,Best Motion Picture - Drama,Inception,,FALSE
+2010,2011,68,Best Motion Picture - Drama,The King's Speech,,FALSE
+2010,2011,68,Best Motion Picture - Musical or Comedy,"Kids Are All Right, The",,TRUE
+2010,2011,68,Best Motion Picture - Musical or Comedy,Alice in Wonderland,,FALSE
+2010,2011,68,Best Motion Picture - Musical or Comedy,Burlesque,,FALSE
+2010,2011,68,Best Motion Picture - Musical or Comedy,Red,,FALSE
+2010,2011,68,Best Motion Picture - Musical or Comedy,"Tourist, The",,FALSE
+2010,2011,68,Best Performance by an Actress in a Motion Picture - Drama,Natalie Portman,Black Swan,TRUE
+2010,2011,68,Best Performance by an Actress in a Motion Picture - Drama,Halle Berry,Frankie and Alice,FALSE
+2010,2011,68,Best Performance by an Actress in a Motion Picture - Drama,Nicole Kidman,Rabbit Hole,FALSE
+2010,2011,68,Best Performance by an Actress in a Motion Picture - Drama,Jennifer Lawrence,Winter's Bone,FALSE
+2010,2011,68,Best Performance by an Actress in a Motion Picture - Drama,Michelle Williams,Blue Valentine,FALSE
+2010,2011,68,Best Performance by an Actor in a Motion Picture - Drama,Colin Firth,The King's Speech,TRUE
+2010,2011,68,Best Performance by an Actor in a Motion Picture - Drama,Ryan Gosling,Blue Valentine,FALSE
+2010,2011,68,Best Performance by an Actor in a Motion Picture - Drama,Mark Wahlberg,"Fighter, The",FALSE
+2010,2011,68,Best Performance by an Actor in a Motion Picture - Drama,Jesse Eisenberg,The Social Network,FALSE
+2010,2011,68,Best Performance by an Actor in a Motion Picture - Drama,James Franco,127 Hours,FALSE
+2010,2011,68,Best Performance by an Actress in a Motion Picture - Musical or Comedy,Annette Bening,"Kids Are All Right, The",TRUE
+2010,2011,68,Best Performance by an Actress in a Motion Picture - Musical or Comedy,Anne Hathaway,Love & Other Drugs,FALSE
+2010,2011,68,Best Performance by an Actress in a Motion Picture - Musical or Comedy,Angelina Jolie,"Tourist, The",FALSE
+2010,2011,68,Best Performance by an Actress in a Motion Picture - Musical or Comedy,Julianne Moore,"Kids Are All Right, The",FALSE
+2010,2011,68,Best Performance by an Actress in a Motion Picture - Musical or Comedy,Emma Stone,Easy A,FALSE
+2010,2011,68,Best Performance by an Actor in a Motion Picture - Musical or Comedy,Paul Giamatti,Barney's Version,TRUE
+2010,2011,68,Best Performance by an Actor in a Motion Picture - Musical or Comedy,Johnny Depp,Alice in Wonderland,FALSE
+2010,2011,68,Best Performance by an Actor in a Motion Picture - Musical or Comedy,Johnny Depp,"Tourist, The",FALSE
+2010,2011,68,Best Performance by an Actor in a Motion Picture - Musical or Comedy,Jake Gyllenhaal,Love & Other Drugs,FALSE
+2010,2011,68,Best Performance by an Actor in a Motion Picture - Musical or Comedy,Kevin Spacey,Casino Jack,FALSE
+2010,2011,68,Best Performance by an Actress in a Supporting Role in any Motion Picture,Melissa Leo,"Fighter, The",TRUE
+2010,2011,68,Best Performance by an Actress in a Supporting Role in any Motion Picture,Helena Bonham Carter,The King's Speech,FALSE
+2010,2011,68,Best Performance by an Actress in a Supporting Role in any Motion Picture,Mila Kunis,Black Swan,FALSE
+2010,2011,68,Best Performance by an Actress in a Supporting Role in any Motion Picture,Jacki Weaver,Animal Kingdom,FALSE
+2010,2011,68,Best Performance by an Actress in a Supporting Role in any Motion Picture,Amy Adams,"Fighter, The",FALSE
+2010,2011,68,Best Performance by an Actor in a Supporting Role in any Motion Picture,Christian Bale,"Fighter, The",TRUE
+2010,2011,68,Best Performance by an Actor in a Supporting Role in any Motion Picture,Michael Douglas,Wall Street: Money Never Sleeps,FALSE
+2010,2011,68,Best Performance by an Actor in a Supporting Role in any Motion Picture,Andrew Garfield,The Social Network,FALSE
+2010,2011,68,Best Performance by an Actor in a Supporting Role in any Motion Picture,Jeremy Renner,"Town, The",FALSE
+2010,2011,68,Best Performance by an Actor in a Supporting Role in any Motion Picture,Geoffrey Rush,The King's Speech,FALSE
+2010,2011,68,Best Director - Motion Picture,David Fincher,The Social Network,TRUE
+2010,2011,68,Best Director - Motion Picture,Darren Aronofsky,Black Swan,FALSE
+2010,2011,68,Best Director - Motion Picture,Tom Hooper,The King's Speech,FALSE
+2010,2011,68,Best Director - Motion Picture,Christopher Nolan,Inception,FALSE
+2010,2011,68,Best Director - Motion Picture,David O. Russell,"Fighter, The",FALSE
+2010,2011,68,Best Screenplay - Motion Picture,Aaron Sorkin,The Social Network,TRUE
+2010,2011,68,Best Screenplay - Motion Picture,"Danny Boyle, Simon Beaufoy",127 Hours,FALSE
+2010,2011,68,Best Screenplay - Motion Picture,"Lisa Cholodenko, Stuart Blumberg","Kids Are All Right, The",FALSE
+2010,2011,68,Best Screenplay - Motion Picture,Christopher Nolan,Inception,FALSE
+2010,2011,68,Best Screenplay - Motion Picture,David Seidler,The King's Speech,FALSE
+2010,2011,68,Best Motion Picture - Animated,Toy Story 3,,TRUE
+2010,2011,68,Best Motion Picture - Animated,How To Train Your Dragon,,FALSE
+2010,2011,68,Best Motion Picture - Animated,"Illusionist, The",,FALSE
+2010,2011,68,Best Motion Picture - Animated,Tangled,,FALSE
+2010,2011,68,Best Motion Picture - Animated,Despicable Me,,FALSE
+2010,2011,68,Best Motion Picture - Foreign Language,In A Better World,"Denmark, Susanne Bier",TRUE
+2010,2011,68,Best Motion Picture - Foreign Language,Biutiful,"Spain, Mexico, Alejandro González Iñárritu",FALSE
+2010,2011,68,Best Motion Picture - Foreign Language,The Concert,"France, Radu Mihaileanu",FALSE
+2010,2011,68,Best Motion Picture - Foreign Language,The Edge,"Russia, Aleksey Uchitel",FALSE
+2010,2011,68,Best Motion Picture - Foreign Language,I Am Love,"Italy, Luca Guadagnino",FALSE
+2010,2011,68,Best Original Score - Motion Picture,"Trent Reznor, Atticus Ross",The Social Network,TRUE
+2010,2011,68,Best Original Score - Motion Picture,Alexandre Desplat,The King's Speech,FALSE
+2010,2011,68,Best Original Score - Motion Picture,Danny Elfman,Alice in Wonderland,FALSE
+2010,2011,68,Best Original Score - Motion Picture,A. R. Rahman,127 Hours,FALSE
+2010,2011,68,Best Original Score - Motion Picture,Hans Zimmer,Inception,FALSE
+2010,2011,68,Best Original Song - Motion Picture,"""You Haven't Seen The Last of Me"", Diane Warren",Burlesque,TRUE
+2010,2011,68,Best Original Song - Motion Picture,"""Coming Home"", Bob DiPiero, Tom Douglas, Hillary Lindsey, Troy Verges",Country Strong,FALSE
+2010,2011,68,Best Original Song - Motion Picture,"I See The Light, Alan Menken, Glenn Slater",Tangled,FALSE
+2010,2011,68,Best Original Song - Motion Picture,"""There's A Place For Us"", Carrie Underwood, David Hodges, Hillary Lindsey",The Chronicles of Narnia: The Voyage of The Dawn Treader,FALSE
+2010,2011,68,Best Original Song - Motion Picture,"""Bound To You"", Sia, Christina Aguilera, Samuel Dixon",Burlesque,FALSE
+2010,2011,68,Best Television Series - Drama,Boardwalk Empire,,TRUE
+2010,2011,68,Best Television Series - Drama,Dexter,,FALSE
+2010,2011,68,Best Television Series - Drama,The Good Wife,,FALSE
+2010,2011,68,Best Television Series - Drama,Mad Men,,FALSE
+2010,2011,68,Best Television Series - Drama,"Walking Dead, The",,FALSE
+2010,2011,68,Best Television Series - Musical or Comedy,Glee,,TRUE
+2010,2011,68,Best Television Series - Musical or Comedy,"Big Bang Theory, The",,FALSE
+2010,2011,68,Best Television Series - Musical or Comedy,"Big C, The",,FALSE
+2010,2011,68,Best Television Series - Musical or Comedy,Modern Family,,FALSE
+2010,2011,68,Best Television Series - Musical or Comedy,Nurse Jackie,,FALSE
+2010,2011,68,Best Television Series - Musical or Comedy,30 Rock,,FALSE
+2010,2011,68,Best Television Limited Series or Motion Picture Made for Television,Carlos,,TRUE
+2010,2011,68,Best Television Limited Series or Motion Picture Made for Television,The Pacific,,FALSE
+2010,2011,68,Best Television Limited Series or Motion Picture Made for Television,Pillars Of The Earth,,FALSE
+2010,2011,68,Best Television Limited Series or Motion Picture Made for Television,Temple Grandin,,FALSE
+2010,2011,68,Best Television Limited Series or Motion Picture Made for Television,You Don't Know Jack,,FALSE
+2010,2011,68,Best Performance by an Actress in a Limited Series or a Motion Picture Made for Television,Claire Danes,Temple Grandin,TRUE
+2010,2011,68,Best Performance by an Actress in a Limited Series or a Motion Picture Made for Television,Judi Dench,Return To Cranford,FALSE
+2010,2011,68,Best Performance by an Actress in a Limited Series or a Motion Picture Made for Television,Romola Garai,Emma,FALSE
+2010,2011,68,Best Performance by an Actress in a Limited Series or a Motion Picture Made for Television,Jennifer Love Hewitt,"Client List, The",FALSE
+2010,2011,68,Best Performance by an Actress in a Limited Series or a Motion Picture Made for Television,Hayley Atwell,Pillars Of The Earth,FALSE
+2010,2011,68,Best Performance by an Actor in a Limited Series or a Motion Picture Made for Television,Al Pacino,You Don't Know Jack,TRUE
+2010,2011,68,Best Performance by an Actor in a Limited Series or a Motion Picture Made for Television,Idris Elba,Luther,FALSE
+2010,2011,68,Best Performance by an Actor in a Limited Series or a Motion Picture Made for Television,Ian McShane,Pillars Of The Earth,FALSE
+2010,2011,68,Best Performance by an Actor in a Limited Series or a Motion Picture Made for Television,Dennis Quaid,"Special Relationship, The",FALSE
+2010,2011,68,Best Performance by an Actor in a Limited Series or a Motion Picture Made for Television,Edgar Ramírez,Carlos,FALSE
+2010,2011,68,Best Performance by an Actress In A Television Series - Drama,Katey Sagal,Sons of Anarchy,TRUE
+2010,2011,68,Best Performance by an Actress In A Television Series - Drama,Julianna Margulies,The Good Wife,FALSE
+2010,2011,68,Best Performance by an Actress In A Television Series - Drama,Elisabeth Moss,Mad Men,FALSE
+2010,2011,68,Best Performance by an Actress In A Television Series - Drama,Piper Perabo,Covert Affairs,FALSE
+2010,2011,68,Best Performance by an Actress In A Television Series - Drama,Kyra Sedgwick,"Closer, The",FALSE
+2010,2011,68,Best Performance by an Actor In A Television Series - Drama,Steve Buscemi,Boardwalk Empire,TRUE
+2010,2011,68,Best Performance by an Actor In A Television Series - Drama,Bryan Cranston,Breaking Bad,FALSE
+2010,2011,68,Best Performance by an Actor In A Television Series - Drama,Michael C. Hall,Dexter,FALSE
+2010,2011,68,Best Performance by an Actor In A Television Series - Drama,Jon Hamm,Mad Men,FALSE
+2010,2011,68,Best Performance by an Actor In A Television Series - Drama,Hugh Laurie,House,FALSE
+2010,2011,68,Best Performance by an Actress in a Television Series - Musical or Comedy,Laura Linney,"Big C, The",TRUE
+2010,2011,68,Best Performance by an Actress in a Television Series - Musical or Comedy,Lea Michele,Glee,FALSE
+2010,2011,68,Best Performance by an Actress in a Television Series - Musical or Comedy,Toni Collette,United States Of Tara,FALSE
+2010,2011,68,Best Performance by an Actress in a Television Series - Musical or Comedy,Edie Falco,Nurse Jackie,FALSE
+2010,2011,68,Best Performance by an Actress in a Television Series - Musical or Comedy,Tina Fey,30 Rock,FALSE
+2010,2011,68,Best Performance by an Actor in a Television Series - Musical or Comedy,Jim Parsons,"Big Bang Theory, The",TRUE
+2010,2011,68,Best Performance by an Actor in a Television Series - Musical or Comedy,Alec Baldwin,30 Rock,FALSE
+2010,2011,68,Best Performance by an Actor in a Television Series - Musical or Comedy,Steve Carell,"Office, The",FALSE
+2010,2011,68,Best Performance by an Actor in a Television Series - Musical or Comedy,Thomas Jane,Hung,FALSE
+2010,2011,68,Best Performance by an Actor in a Television Series - Musical or Comedy,Matthew Morrison,Glee,FALSE
+2010,2011,68,"Best Performance by an Actress in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Jane Lynch,Glee,TRUE
+2010,2011,68,"Best Performance by an Actress in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Sofia Vergara,Modern Family,FALSE
+2010,2011,68,"Best Performance by an Actress in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Hope Davis,"Special Relationship, The",FALSE
+2010,2011,68,"Best Performance by an Actress in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Kelly MacDonald,Boardwalk Empire,FALSE
+2010,2011,68,"Best Performance by an Actress in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Julia Stiles,Dexter,FALSE
+2010,2011,68,"Best Performance by an Actor in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Chris Colfer,Glee,TRUE
+2010,2011,68,"Best Performance by an Actor in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Scott Caan,Hawaii Five-O,FALSE
+2010,2011,68,"Best Performance by an Actor in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Chris Noth,The Good Wife,FALSE
+2010,2011,68,"Best Performance by an Actor in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Eric Stonestreet,Modern Family,FALSE
+2010,2011,68,"Best Performance by an Actor in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",David Strathairn,Temple Grandin,FALSE
+2010,2011,68,Cecil B. deMille Award,Robert De Niro,,FALSE
+2011,2012,69,Best Motion Picture - Drama,"Descendants, The",,TRUE
+2011,2012,69,Best Motion Picture - Drama,Moneyball,,FALSE
+2011,2012,69,Best Motion Picture - Drama,War Horse,,FALSE
+2011,2012,69,Best Motion Picture - Drama,The Help,,FALSE
+2011,2012,69,Best Motion Picture - Drama,Hugo,,FALSE
+2011,2012,69,Best Motion Picture - Drama,"Ides of March, The",,FALSE
+2011,2012,69,Best Motion Picture - Musical or Comedy,The Artist,,TRUE
+2011,2012,69,Best Motion Picture - Musical or Comedy,50/50,,FALSE
+2011,2012,69,Best Motion Picture - Musical or Comedy,Bridesmaids,,FALSE
+2011,2012,69,Best Motion Picture - Musical or Comedy,Midnight In Paris,,FALSE
+2011,2012,69,Best Motion Picture - Musical or Comedy,My Week With Marilyn,,FALSE
+2011,2012,69,Best Performance by an Actress in a Motion Picture - Drama,Meryl Streep,"Iron Lady, The",TRUE
+2011,2012,69,Best Performance by an Actress in a Motion Picture - Drama,Glenn Close,Albert Nobbs,FALSE
+2011,2012,69,Best Performance by an Actress in a Motion Picture - Drama,Viola Davis,The Help,FALSE
+2011,2012,69,Best Performance by an Actress in a Motion Picture - Drama,Rooney Mara,The Girl With The Dragon Tattoo,FALSE
+2011,2012,69,Best Performance by an Actress in a Motion Picture - Drama,Tilda Swinton,We Need To Talk About Kevin,FALSE
+2011,2012,69,Best Performance by an Actor in a Motion Picture - Drama,George Clooney,"Descendants, The",TRUE
+2011,2012,69,Best Performance by an Actor in a Motion Picture - Drama,Ryan Gosling,"Ides of March, The",FALSE
+2011,2012,69,Best Performance by an Actor in a Motion Picture - Drama,Brad Pitt,Moneyball,FALSE
+2011,2012,69,Best Performance by an Actor in a Motion Picture - Drama,Leonardo DiCaprio,J. Edgar,FALSE
+2011,2012,69,Best Performance by an Actor in a Motion Picture - Drama,Michael Fassbender,Shame,FALSE
+2011,2012,69,Best Performance by an Actress in a Motion Picture - Musical or Comedy,Michelle Williams,My Week With Marilyn,TRUE
+2011,2012,69,Best Performance by an Actress in a Motion Picture - Musical or Comedy,Jodie Foster,Carnage,FALSE
+2011,2012,69,Best Performance by an Actress in a Motion Picture - Musical or Comedy,Charlize Theron,Young Adult,FALSE
+2011,2012,69,Best Performance by an Actress in a Motion Picture - Musical or Comedy,Kristen Wiig,Bridesmaids,FALSE
+2011,2012,69,Best Performance by an Actress in a Motion Picture - Musical or Comedy,Kate Winslet,Carnage,FALSE
+2011,2012,69,Best Performance by an Actor in a Motion Picture - Musical or Comedy,Jean Dujardin,The Artist,TRUE
+2011,2012,69,Best Performance by an Actor in a Motion Picture - Musical or Comedy,Brendan Gleeson,"Guard, The",FALSE
+2011,2012,69,Best Performance by an Actor in a Motion Picture - Musical or Comedy,Joseph Gordon-Levitt,50/50,FALSE
+2011,2012,69,Best Performance by an Actor in a Motion Picture - Musical or Comedy,Ryan Gosling,"Crazy, Stupid, Love.",FALSE
+2011,2012,69,Best Performance by an Actor in a Motion Picture - Musical or Comedy,Owen Wilson,Midnight In Paris,FALSE
+2011,2012,69,Best Performance by an Actress in a Supporting Role in any Motion Picture,Octavia Spencer,The Help,TRUE
+2011,2012,69,Best Performance by an Actress in a Supporting Role in any Motion Picture,Bérénice Bejo,The Artist,FALSE
+2011,2012,69,Best Performance by an Actress in a Supporting Role in any Motion Picture,Jessica Chastain,The Help,FALSE
+2011,2012,69,Best Performance by an Actress in a Supporting Role in any Motion Picture,Janet McTeer,Albert Nobbs,FALSE
+2011,2012,69,Best Performance by an Actress in a Supporting Role in any Motion Picture,Shailene Woodley,"Descendants, The",FALSE
+2011,2012,69,Best Performance by an Actor in a Supporting Role in any Motion Picture,Christopher Plummer,Beginners,TRUE
+2011,2012,69,Best Performance by an Actor in a Supporting Role in any Motion Picture,Albert Brooks,Drive,FALSE
+2011,2012,69,Best Performance by an Actor in a Supporting Role in any Motion Picture,Jonah Hill,Moneyball,FALSE
+2011,2012,69,Best Performance by an Actor in a Supporting Role in any Motion Picture,Viggo Mortensen,"Dangerous Method, A",FALSE
+2011,2012,69,Best Performance by an Actor in a Supporting Role in any Motion Picture,Kenneth Branagh,My Week With Marilyn,FALSE
+2011,2012,69,Best Director - Motion Picture,Martin Scorsese,Hugo,TRUE
+2011,2012,69,Best Director - Motion Picture,Alexander Payne,"Descendants, The",FALSE
+2011,2012,69,Best Director - Motion Picture,Woody Allen,Midnight In Paris,FALSE
+2011,2012,69,Best Director - Motion Picture,George Clooney,"Ides of March, The",FALSE
+2011,2012,69,Best Director - Motion Picture,Michel Hazanavicius,The Artist,FALSE
+2011,2012,69,Best Screenplay - Motion Picture,Woody Allen,Midnight In Paris,TRUE
+2011,2012,69,Best Screenplay - Motion Picture,"George Clooney, Grant Heslov, Beau Willimon","Ides of March, The",FALSE
+2011,2012,69,Best Screenplay - Motion Picture,Michel Hazanavicius,The Artist,FALSE
+2011,2012,69,Best Screenplay - Motion Picture,"Aaron Sorkin, Steve Zaillian, Stan Chervin",Moneyball,FALSE
+2011,2012,69,Best Screenplay - Motion Picture,"Nat Faxon, Jim Rash, Alexander Payne","Descendants, The",FALSE
+2011,2012,69,Best Motion Picture - Animated,"Adventures of Tintin, The",,TRUE
+2011,2012,69,Best Motion Picture - Animated,Rango,,FALSE
+2011,2012,69,Best Motion Picture - Animated,Arthur Christmas,,FALSE
+2011,2012,69,Best Motion Picture - Animated,Cars 2,,FALSE
+2011,2012,69,Best Motion Picture - Animated,Puss In Boots,,FALSE
+2011,2012,69,Best Motion Picture - Foreign Language,A Separation,"Iran, Asghar Farhadi ",TRUE
+2011,2012,69,Best Motion Picture - Foreign Language,The Flowers Of War,"China, Zhang Yimou",FALSE
+2011,2012,69,Best Motion Picture - Foreign Language,In The Land Of Blood And Honey,"United States, Angelina Jolie",FALSE
+2011,2012,69,Best Motion Picture - Foreign Language,The Kid With A Bike,"Belgium, Jean-Pierre Dardenne, Luc Dardenne",FALSE
+2011,2012,69,Best Motion Picture - Foreign Language,The Skin I Live In,"Spain, Pedro Almodóvar",FALSE
+2011,2012,69,Best Original Score - Motion Picture,Ludovic Bource,The Artist,TRUE
+2011,2012,69,Best Original Score - Motion Picture,Abel Korzeniowski,W.E.,FALSE
+2011,2012,69,Best Original Score - Motion Picture,"Atticus Ross, Trent Reznor",The Girl With The Dragon Tattoo,FALSE
+2011,2012,69,Best Original Score - Motion Picture,Howard Shore,Hugo,FALSE
+2011,2012,69,Best Original Score - Motion Picture,John Williams,War Horse,FALSE
+2011,2012,69,Best Original Song - Motion Picture,"""Masterpiece"", Madonna, Julie Frost, Jimmy Harry",W.E.,TRUE
+2011,2012,69,Best Original Song - Motion Picture,"Hello Hello, Elton John, Lady Gaga, Bernie Taupin",Gnomeo & Juliet,FALSE
+2011,2012,69,Best Original Song - Motion Picture,"""The Keeper"", Chris Cornell",Machine Gun Preacher,FALSE
+2011,2012,69,Best Original Song - Motion Picture,"""Lay Your Head Down"", Brian Byrne, Glenn Close",Albert Nobbs,FALSE
+2011,2012,69,Best Original Song - Motion Picture,"""The Living Proof"", Mary J. Blige, Thomas Newman, Harvey Mason, Jr., Damon Thomas",The Help,FALSE
+2011,2012,69,Best Television Series - Drama,Homeland,,TRUE
+2011,2012,69,Best Television Series - Drama,Boardwalk Empire,,FALSE
+2011,2012,69,Best Television Series - Drama,Boss,,FALSE
+2011,2012,69,Best Television Series - Drama,Game of Thrones,,FALSE
+2011,2012,69,Best Television Series - Drama,American Horror Story: Asylum,,FALSE
+2011,2012,69,Best Television Series - Musical or Comedy,Modern Family,,TRUE
+2011,2012,69,Best Television Series - Musical or Comedy,Enlightened,,FALSE
+2011,2012,69,Best Television Series - Musical or Comedy,Episodes,,FALSE
+2011,2012,69,Best Television Series - Musical or Comedy,Glee,,FALSE
+2011,2012,69,Best Television Series - Musical or Comedy,New Girl,,FALSE
+2011,2012,69,Best Television Limited Series or Motion Picture Made for Television,Downton Abbey,,TRUE
+2011,2012,69,Best Television Limited Series or Motion Picture Made for Television,Cinema Verite,,FALSE
+2011,2012,69,Best Television Limited Series or Motion Picture Made for Television,The Hour,,FALSE
+2011,2012,69,Best Television Limited Series or Motion Picture Made for Television,Mildred Pierce,,FALSE
+2011,2012,69,Best Television Limited Series or Motion Picture Made for Television,Too Big To Fail,,FALSE
+2011,2012,69,Best Performance by an Actress in a Limited Series or a Motion Picture Made for Television,Kate Winslet,Mildred Pierce,TRUE
+2011,2012,69,Best Performance by an Actress in a Limited Series or a Motion Picture Made for Television,Romola Garai,The Hour,FALSE
+2011,2012,69,Best Performance by an Actress in a Limited Series or a Motion Picture Made for Television,Diane Lane,Cinema Verite,FALSE
+2011,2012,69,Best Performance by an Actress in a Limited Series or a Motion Picture Made for Television,Elizabeth McGovern,Downton Abbey,FALSE
+2011,2012,69,Best Performance by an Actress in a Limited Series or a Motion Picture Made for Television,Emily Watson,Appropriate Adult,FALSE
+2011,2012,69,Best Performance by an Actor in a Limited Series or a Motion Picture Made for Television,Idris Elba,Luther,TRUE
+2011,2012,69,Best Performance by an Actor in a Limited Series or a Motion Picture Made for Television,Hugh Bonneville,Downton Abbey,FALSE
+2011,2012,69,Best Performance by an Actor in a Limited Series or a Motion Picture Made for Television,William Hurt,Too Big To Fail,FALSE
+2011,2012,69,Best Performance by an Actor in a Limited Series or a Motion Picture Made for Television,Bill Nighy,Page Eight (Masterpiece),FALSE
+2011,2012,69,Best Performance by an Actor in a Limited Series or a Motion Picture Made for Television,Dominic West,The Hour,FALSE
+2011,2012,69,Best Performance by an Actress In A Television Series - Drama,Claire Danes,Homeland,TRUE
+2011,2012,69,Best Performance by an Actress In A Television Series - Drama,Madeleine Stowe,Revenge,FALSE
+2011,2012,69,Best Performance by an Actress In A Television Series - Drama,Callie Thorne,Necessary Roughness,FALSE
+2011,2012,69,Best Performance by an Actress In A Television Series - Drama,Mireille Enos,"Killing, The",FALSE
+2011,2012,69,Best Performance by an Actress In A Television Series - Drama,Julianna Margulies,The Good Wife,FALSE
+2011,2012,69,Best Performance by an Actor In A Television Series - Drama,Kelsey Grammer,Boss,TRUE
+2011,2012,69,Best Performance by an Actor In A Television Series - Drama,Jeremy Irons,"Borgias, The",FALSE
+2011,2012,69,Best Performance by an Actor In A Television Series - Drama,Damian Lewis,Homeland,FALSE
+2011,2012,69,Best Performance by an Actor In A Television Series - Drama,Steve Buscemi,Boardwalk Empire,FALSE
+2011,2012,69,Best Performance by an Actor In A Television Series - Drama,Bryan Cranston,Breaking Bad,FALSE
+2011,2012,69,Best Performance by an Actress in a Television Series - Musical or Comedy,Laura Dern,Enlightened,TRUE
+2011,2012,69,Best Performance by an Actress in a Television Series - Musical or Comedy,Zooey Deschanel,New Girl,FALSE
+2011,2012,69,Best Performance by an Actress in a Television Series - Musical or Comedy,Tina Fey,30 Rock,FALSE
+2011,2012,69,Best Performance by an Actress in a Television Series - Musical or Comedy,Laura Linney,"Big C, The",FALSE
+2011,2012,69,Best Performance by an Actress in a Television Series - Musical or Comedy,Amy Poehler,Parks And Recreation,FALSE
+2011,2012,69,Best Performance by an Actor in a Television Series - Musical or Comedy,Matt LeBlanc,Episodes,TRUE
+2011,2012,69,Best Performance by an Actor in a Television Series - Musical or Comedy,Alec Baldwin,30 Rock,FALSE
+2011,2012,69,Best Performance by an Actor in a Television Series - Musical or Comedy,David Duchovny,Californication,FALSE
+2011,2012,69,Best Performance by an Actor in a Television Series - Musical or Comedy,Johnny Galecki,"Big Bang Theory, The",FALSE
+2011,2012,69,Best Performance by an Actor in a Television Series - Musical or Comedy,Thomas Jane,Hung,FALSE
+2011,2012,69,"Best Performance by an Actress in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Jessica Lange,American Horror Story,TRUE
+2011,2012,69,"Best Performance by an Actress in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Kelly MacDonald,Boardwalk Empire,FALSE
+2011,2012,69,"Best Performance by an Actress in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Maggie Smith,Downton Abbey,FALSE
+2011,2012,69,"Best Performance by an Actress in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Sofia Vergara,Modern Family,FALSE
+2011,2012,69,"Best Performance by an Actress in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Evan Rachel Wood,Mildred Pierce,FALSE
+2011,2012,69,"Best Performance by an Actor in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Peter Dinklage,Game of Thrones,TRUE
+2011,2012,69,"Best Performance by an Actor in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Paul Giamatti,Too Big To Fail,FALSE
+2011,2012,69,"Best Performance by an Actor in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Guy Pearce,Mildred Pierce,FALSE
+2011,2012,69,"Best Performance by an Actor in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Tim Robbins,Cinema Verite,FALSE
+2011,2012,69,"Best Performance by an Actor in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Eric Stonestreet,Modern Family,FALSE
+2011,2012,69,Cecil B. deMille Award,Morgan Freeman,,FALSE
+2012,2013,70,Best Motion Picture - Drama,Argo,,TRUE
+2012,2013,70,Best Motion Picture - Drama,Life of Pi,,FALSE
+2012,2013,70,Best Motion Picture - Drama,Lincoln,,FALSE
+2012,2013,70,Best Motion Picture - Drama,"Zero Dark Thirty 	",,FALSE
+2012,2013,70,Best Motion Picture - Drama,Django Unchained,,FALSE
+2012,2013,70,Best Motion Picture - Musical or Comedy,Les Misérables,,TRUE
+2012,2013,70,Best Motion Picture - Musical or Comedy,"Best Exotic Marigold Hotel, The",,FALSE
+2012,2013,70,Best Motion Picture - Musical or Comedy,Moonrise Kingdom,,FALSE
+2012,2013,70,Best Motion Picture - Musical or Comedy,Salmon Fishing in the Yemen,,FALSE
+2012,2013,70,Best Motion Picture - Musical or Comedy,Silver Linings Playbook,,FALSE
+2012,2013,70,Best Performance by an Actress in a Motion Picture - Drama,Jessica Chastain,"Zero Dark Thirty 	",TRUE
+2012,2013,70,Best Performance by an Actress in a Motion Picture - Drama,Marion Cotillard,Rust and Bone,FALSE
+2012,2013,70,Best Performance by an Actress in a Motion Picture - Drama,Helen Mirren,Hitchcock,FALSE
+2012,2013,70,Best Performance by an Actress in a Motion Picture - Drama,Naomi Watts,"Impossible, The",FALSE
+2012,2013,70,Best Performance by an Actress in a Motion Picture - Drama,Rachel Weisz,"Deep Blue Sea, The",FALSE
+2012,2013,70,Best Performance by an Actor in a Motion Picture - Drama,Daniel Day-Lewis,Lincoln,TRUE
+2012,2013,70,Best Performance by an Actor in a Motion Picture - Drama,Richard Gere,Arbitrage,FALSE
+2012,2013,70,Best Performance by an Actor in a Motion Picture - Drama,Joaquin Phoenix,"Master, The",FALSE
+2012,2013,70,Best Performance by an Actor in a Motion Picture - Drama,Denzel Washington,Flight,FALSE
+2012,2013,70,Best Performance by an Actor in a Motion Picture - Drama,John Hawkes,"Sessions, The",FALSE
+2012,2013,70,Best Performance by an Actress in a Motion Picture - Musical or Comedy,Jennifer Lawrence,Silver Linings Playbook,TRUE
+2012,2013,70,Best Performance by an Actress in a Motion Picture - Musical or Comedy,Emily Blunt,Salmon Fishing in the Yemen,FALSE
+2012,2013,70,Best Performance by an Actress in a Motion Picture - Musical or Comedy,Judi Dench,"Best Exotic Marigold Hotel, The",FALSE
+2012,2013,70,Best Performance by an Actress in a Motion Picture - Musical or Comedy,Maggie Smith,Quartet,FALSE
+2012,2013,70,Best Performance by an Actress in a Motion Picture - Musical or Comedy,Meryl Streep,Hope Springs,FALSE
+2012,2013,70,Best Performance by an Actor in a Motion Picture - Musical or Comedy,Hugh Jackman,Les Misérables,TRUE
+2012,2013,70,Best Performance by an Actor in a Motion Picture - Musical or Comedy,Bill Murray,Hyde Park on Hudson,FALSE
+2012,2013,70,Best Performance by an Actor in a Motion Picture - Musical or Comedy,Bradley Cooper,Silver Linings Playbook,FALSE
+2012,2013,70,Best Performance by an Actor in a Motion Picture - Musical or Comedy,Jack Black,Bernie,FALSE
+2012,2013,70,Best Performance by an Actor in a Motion Picture - Musical or Comedy,Ewan McGregor,Salmon Fishing in the Yemen,FALSE
+2012,2013,70,Best Performance by an Actress in a Supporting Role in any Motion Picture,Anne Hathaway,Les Misérables,TRUE
+2012,2013,70,Best Performance by an Actress in a Supporting Role in any Motion Picture,Amy Adams,"Master, The",FALSE
+2012,2013,70,Best Performance by an Actress in a Supporting Role in any Motion Picture,Helen Hunt,"Sessions, The",FALSE
+2012,2013,70,Best Performance by an Actress in a Supporting Role in any Motion Picture,Nicole Kidman,"Paperboy, The",FALSE
+2012,2013,70,Best Performance by an Actress in a Supporting Role in any Motion Picture,Sally Field,Lincoln,FALSE
+2012,2013,70,Best Performance by an Actor in a Supporting Role in any Motion Picture,Christoph Waltz,Django Unchained,TRUE
+2012,2013,70,Best Performance by an Actor in a Supporting Role in any Motion Picture,Philip Seymour Hoffman,"Master, The",FALSE
+2012,2013,70,Best Performance by an Actor in a Supporting Role in any Motion Picture,Alan Arkin,Argo,FALSE
+2012,2013,70,Best Performance by an Actor in a Supporting Role in any Motion Picture,Leonardo DiCaprio,Django Unchained,FALSE
+2012,2013,70,Best Performance by an Actor in a Supporting Role in any Motion Picture,Tommy Lee Jones,Lincoln,FALSE
+2012,2013,70,Best Director - Motion Picture,Ben Affleck,Argo,TRUE
+2012,2013,70,Best Director - Motion Picture,Ang Lee,Life of Pi,FALSE
+2012,2013,70,Best Director - Motion Picture,Steven Spielberg,Lincoln,FALSE
+2012,2013,70,Best Director - Motion Picture,Kathryn Bigelow,"Zero Dark Thirty 	",FALSE
+2012,2013,70,Best Director - Motion Picture,Quentin Tarantino,Django Unchained,FALSE
+2012,2013,70,Best Screenplay - Motion Picture,Quentin Tarantino,Django Unchained,TRUE
+2012,2013,70,Best Screenplay - Motion Picture,Tony Kushner,Lincoln,FALSE
+2012,2013,70,Best Screenplay - Motion Picture,Mark Boal,"Zero Dark Thirty 	",FALSE
+2012,2013,70,Best Screenplay - Motion Picture,David O. Russell,Silver Linings Playbook,FALSE
+2012,2013,70,Best Screenplay - Motion Picture,Chris Terrio,Argo,FALSE
+2012,2013,70,Best Motion Picture - Animated,Brave,,TRUE
+2012,2013,70,Best Motion Picture - Animated,Frankenweenie,,FALSE
+2012,2013,70,Best Motion Picture - Animated,Hotel Transylvania,,FALSE
+2012,2013,70,Best Motion Picture - Animated,Rise of the Guardians,,FALSE
+2012,2013,70,Best Motion Picture - Animated,Wreck-It Ralph,,FALSE
+2012,2013,70,Best Motion Picture - Foreign Language,Amour,"Austria, Michael Haneke",TRUE
+2012,2013,70,Best Motion Picture - Foreign Language,A Royal Affair,"Denmark, Nikolaj Arcel",FALSE
+2012,2013,70,Best Motion Picture - Foreign Language,The Intouchables,"France, Olivier Nakache, Éric Toledano",FALSE
+2012,2013,70,Best Motion Picture - Foreign Language,Kon Tiki,"Norway, United Kingdom, Denmark, Joachim Rønning, Espen Sandberg",FALSE
+2012,2013,70,Best Motion Picture - Foreign Language,Rust and Bone,"France, Jacques Audiard",FALSE
+2012,2013,70,Best Original Score - Motion Picture,Mychael Danna,Life of Pi,TRUE
+2012,2013,70,Best Original Score - Motion Picture,John Williams,Lincoln,FALSE
+2012,2013,70,Best Original Score - Motion Picture,Dario Marianelli,Anna Karenina,FALSE
+2012,2013,70,Best Original Score - Motion Picture,"Tom Tykwer, Johnny Klimek, Reinhold Heil",Cloud Atlas,FALSE
+2012,2013,70,Best Original Score - Motion Picture,Alexandre Desplat,Argo,FALSE
+2012,2013,70,Best Original Song - Motion Picture,"""Skyfall"", Adele, Paul Epworth",Skyfall,TRUE
+2012,2013,70,Best Original Song - Motion Picture,"""For You"", Keith Urban, Monty Powell",Act of Valor,FALSE
+2012,2013,70,Best Original Song - Motion Picture,"""Not Running Anymore"", Jon Bon Jovi",Stand Up Guys,FALSE
+2012,2013,70,Best Original Song - Motion Picture,"""Safe & Sound"", Taylor Swift, John Paul White, Joy Williams, T Bone Burnett",The Hunger Games,FALSE
+2012,2013,70,Best Original Song - Motion Picture,"""Suddenly"", Herbert Kretzmer, Claude-Michel Schonberg, Alain Boublil",Les Misérables,FALSE
+2012,2013,70,Best Television Series - Drama,Homeland,,TRUE
+2012,2013,70,Best Television Series - Drama,Boardwalk Empire,,FALSE
+2012,2013,70,Best Television Series - Drama,Downton Abbey,,FALSE
+2012,2013,70,Best Television Series - Drama,"Newsroom, The",,FALSE
+2012,2013,70,Best Television Series - Drama,Breaking Bad,,FALSE
+2012,2013,70,Best Television Series - Musical or Comedy,Girls,,TRUE
+2012,2013,70,Best Television Series - Musical or Comedy,"Big Bang Theory, The",,FALSE
+2012,2013,70,Best Television Series - Musical or Comedy,Episodes,,FALSE
+2012,2013,70,Best Television Series - Musical or Comedy,Modern Family,,FALSE
+2012,2013,70,Best Television Series - Musical or Comedy,Smash,,FALSE
+2012,2013,70,Best Television Limited Series or Motion Picture Made for Television,Game Change,,TRUE
+2012,2013,70,Best Television Limited Series or Motion Picture Made for Television,The Hour,,FALSE
+2012,2013,70,Best Television Limited Series or Motion Picture Made for Television,The Girl,,FALSE
+2012,2013,70,Best Television Limited Series or Motion Picture Made for Television,Hatfields & McCoys,,FALSE
+2012,2013,70,Best Television Limited Series or Motion Picture Made for Television,Political Animals,,FALSE
+2012,2013,70,Best Performance by an Actress in a Limited Series or a Motion Picture Made for Television,Julianne Moore,Game Change,TRUE
+2012,2013,70,Best Performance by an Actress in a Limited Series or a Motion Picture Made for Television,Sienna Miller,The Girl,FALSE
+2012,2013,70,Best Performance by an Actress in a Limited Series or a Motion Picture Made for Television,Nicole Kidman,Hemingway & Gellhorn,FALSE
+2012,2013,70,Best Performance by an Actress in a Limited Series or a Motion Picture Made for Television,Jessica Lange,American Horror Story: Asylum,FALSE
+2012,2013,70,Best Performance by an Actress in a Limited Series or a Motion Picture Made for Television,Sigourney Weaver,Political Animals,FALSE
+2012,2013,70,Best Performance by an Actor in a Limited Series or a Motion Picture Made for Television,Kevin Costner,Hatfields & McCoys,TRUE
+2012,2013,70,Best Performance by an Actor in a Limited Series or a Motion Picture Made for Television,Woody Harrelson,Game Change,FALSE
+2012,2013,70,Best Performance by an Actor in a Limited Series or a Motion Picture Made for Television,Clive Owen,Hemingway & Gellhorn,FALSE
+2012,2013,70,Best Performance by an Actor in a Limited Series or a Motion Picture Made for Television,Benedict Cumberbatch,Sherlock: Season 2 (Masterpiece),FALSE
+2012,2013,70,Best Performance by an Actor in a Limited Series or a Motion Picture Made for Television,Toby Jones,The Girl,FALSE
+2012,2013,70,Best Performance by an Actress In A Television Series - Drama,Claire Danes,Homeland,TRUE
+2012,2013,70,Best Performance by an Actress In A Television Series - Drama,Connie Britton,Nashville ( TV ),FALSE
+2012,2013,70,Best Performance by an Actress In A Television Series - Drama,Michelle Dockery,Downton Abbey,FALSE
+2012,2013,70,Best Performance by an Actress In A Television Series - Drama,Glenn Close,Damages,FALSE
+2012,2013,70,Best Performance by an Actress In A Television Series - Drama,Julianna Margulies,The Good Wife,FALSE
+2012,2013,70,Best Performance by an Actor In A Television Series - Drama,Damian Lewis,Homeland,TRUE
+2012,2013,70,Best Performance by an Actor In A Television Series - Drama,Steve Buscemi,Boardwalk Empire,FALSE
+2012,2013,70,Best Performance by an Actor In A Television Series - Drama,Bryan Cranston,Breaking Bad,FALSE
+2012,2013,70,Best Performance by an Actor In A Television Series - Drama,Jeff Daniels,"Newsroom, The",FALSE
+2012,2013,70,Best Performance by an Actor In A Television Series - Drama,Jon Hamm,Mad Men,FALSE
+2012,2013,70,Best Performance by an Actress in a Television Series - Musical or Comedy,Lena Dunham,Girls,TRUE
+2012,2013,70,Best Performance by an Actress in a Television Series - Musical or Comedy,Tina Fey,30 Rock,FALSE
+2012,2013,70,Best Performance by an Actress in a Television Series - Musical or Comedy,Amy Poehler,Parks And Recreation,FALSE
+2012,2013,70,Best Performance by an Actress in a Television Series - Musical or Comedy,Julia Louis-Dreyfus,Veep,FALSE
+2012,2013,70,Best Performance by an Actress in a Television Series - Musical or Comedy,Zooey Deschanel,New Girl,FALSE
+2012,2013,70,Best Performance by an Actor in a Television Series - Musical or Comedy,Don Cheadle,House of Lies,TRUE
+2012,2013,70,Best Performance by an Actor in a Television Series - Musical or Comedy,Alec Baldwin,30 Rock,FALSE
+2012,2013,70,Best Performance by an Actor in a Television Series - Musical or Comedy,Matt LeBlanc,Episodes,FALSE
+2012,2013,70,Best Performance by an Actor in a Television Series - Musical or Comedy,Louis C.K.,Louie,FALSE
+2012,2013,70,Best Performance by an Actor in a Television Series - Musical or Comedy,Jim Parsons,"Big Bang Theory, The",FALSE
+2012,2013,70,"Best Performance by an Actress in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Maggie Smith,Downton Abbey,TRUE
+2012,2013,70,"Best Performance by an Actress in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Sofia Vergara,Modern Family,FALSE
+2012,2013,70,"Best Performance by an Actress in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Archie Panjabi,The Good Wife,FALSE
+2012,2013,70,"Best Performance by an Actress in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Hayden Panettiere,Nashville ( TV ),FALSE
+2012,2013,70,"Best Performance by an Actress in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Sarah Paulson,Game Change,FALSE
+2012,2013,70,"Best Performance by an Actor in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Ed Harris,Game Change,TRUE
+2012,2013,70,"Best Performance by an Actor in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Eric Stonestreet,Modern Family,FALSE
+2012,2013,70,"Best Performance by an Actor in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Max Greenfield,New Girl,FALSE
+2012,2013,70,"Best Performance by an Actor in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Danny Huston,Magic City,FALSE
+2012,2013,70,"Best Performance by an Actor in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Mandy Patinkin,Homeland,FALSE
+2012,2013,70,Cecil B. deMille Award,Jodie Foster,,FALSE
+2013,2014,71,Best Motion Picture - Drama,12 Years a Slave,,TRUE
+2013,2014,71,Best Motion Picture - Drama,Captain Phillips,,FALSE
+2013,2014,71,Best Motion Picture - Drama,Gravity,,FALSE
+2013,2014,71,Best Motion Picture - Drama,Philomena,,FALSE
+2013,2014,71,Best Motion Picture - Drama,Rush,,FALSE
+2013,2014,71,Best Motion Picture - Musical or Comedy,American Hustle,,TRUE
+2013,2014,71,Best Motion Picture - Musical or Comedy,Nebraska,,FALSE
+2013,2014,71,Best Motion Picture - Musical or Comedy,Inside Llewyn Davis,,FALSE
+2013,2014,71,Best Motion Picture - Musical or Comedy,Her,,FALSE
+2013,2014,71,Best Motion Picture - Musical or Comedy,"Wolf of Wall Street, The",,FALSE
+2013,2014,71,Best Performance by an Actress in a Motion Picture - Drama,Cate Blanchett,Blue Jasmine,TRUE
+2013,2014,71,Best Performance by an Actress in a Motion Picture - Drama,Sandra Bullock,Gravity,FALSE
+2013,2014,71,Best Performance by an Actress in a Motion Picture - Drama,Judi Dench,Philomena,FALSE
+2013,2014,71,Best Performance by an Actress in a Motion Picture - Drama,Kate Winslet,Labor Day,FALSE
+2013,2014,71,Best Performance by an Actress in a Motion Picture - Drama,Emma Thompson,Saving Mr. Banks,FALSE
+2013,2014,71,Best Performance by an Actor in a Motion Picture - Drama,Matthew McConaughey,Dallas Buyers Club,TRUE
+2013,2014,71,Best Performance by an Actor in a Motion Picture - Drama,Robert Redford,All Is Lost,FALSE
+2013,2014,71,Best Performance by an Actor in a Motion Picture - Drama,Chiwetel Ejiofor,12 Years a Slave,FALSE
+2013,2014,71,Best Performance by an Actor in a Motion Picture - Drama,Tom Hanks,Captain Phillips,FALSE
+2013,2014,71,Best Performance by an Actor in a Motion Picture - Drama,Idris Elba,Mandela: Long Walk to Freedom,FALSE
+2013,2014,71,Best Performance by an Actress in a Motion Picture - Musical or Comedy,Amy Adams,American Hustle,TRUE
+2013,2014,71,Best Performance by an Actress in a Motion Picture - Musical or Comedy,Julia Louis-Dreyfus,Enough Said,FALSE
+2013,2014,71,Best Performance by an Actress in a Motion Picture - Musical or Comedy,Greta Gerwig,Frances Ha,FALSE
+2013,2014,71,Best Performance by an Actress in a Motion Picture - Musical or Comedy,Meryl Streep,August: Osage County,FALSE
+2013,2014,71,Best Performance by an Actress in a Motion Picture - Musical or Comedy,Julie Delpy,Before Midnight,FALSE
+2013,2014,71,Best Performance by an Actor in a Motion Picture - Musical or Comedy,Leonardo DiCaprio,"Wolf of Wall Street, The",TRUE
+2013,2014,71,Best Performance by an Actor in a Motion Picture - Musical or Comedy,Christian Bale,American Hustle,FALSE
+2013,2014,71,Best Performance by an Actor in a Motion Picture - Musical or Comedy,Bruce Dern,Nebraska,FALSE
+2013,2014,71,Best Performance by an Actor in a Motion Picture - Musical or Comedy,Oscar Isaac,Inside Llewyn Davis,FALSE
+2013,2014,71,Best Performance by an Actor in a Motion Picture - Musical or Comedy,Joaquin Phoenix,Her,FALSE
+2013,2014,71,Best Performance by an Actress in a Supporting Role in any Motion Picture,Jennifer Lawrence,American Hustle,TRUE
+2013,2014,71,Best Performance by an Actress in a Supporting Role in any Motion Picture,Sally Hawkins,Blue Jasmine,FALSE
+2013,2014,71,Best Performance by an Actress in a Supporting Role in any Motion Picture,Lupita Nyong'o,12 Years a Slave,FALSE
+2013,2014,71,Best Performance by an Actress in a Supporting Role in any Motion Picture,June Squibb,Nebraska,FALSE
+2013,2014,71,Best Performance by an Actress in a Supporting Role in any Motion Picture,Julia Roberts,August: Osage County,FALSE
+2013,2014,71,Best Performance by an Actor in a Supporting Role in any Motion Picture,Jared Leto,Dallas Buyers Club,TRUE
+2013,2014,71,Best Performance by an Actor in a Supporting Role in any Motion Picture,Michael Fassbender,12 Years a Slave,FALSE
+2013,2014,71,Best Performance by an Actor in a Supporting Role in any Motion Picture,Barkhad Abdi,Captain Phillips,FALSE
+2013,2014,71,Best Performance by an Actor in a Supporting Role in any Motion Picture,Daniel Brühl,Rush,FALSE
+2013,2014,71,Best Performance by an Actor in a Supporting Role in any Motion Picture,Bradley Cooper,American Hustle,FALSE
+2013,2014,71,Best Director - Motion Picture,Alfonso Cuarón,Gravity,TRUE
+2013,2014,71,Best Director - Motion Picture,Steve McQueen,12 Years a Slave,FALSE
+2013,2014,71,Best Director - Motion Picture,Paul Greengrass,Captain Phillips,FALSE
+2013,2014,71,Best Director - Motion Picture,David O. Russell,American Hustle,FALSE
+2013,2014,71,Best Director - Motion Picture,Alexander Payne,Nebraska,FALSE
+2013,2014,71,Best Screenplay - Motion Picture,Spike Jonze,Her,TRUE
+2013,2014,71,Best Screenplay - Motion Picture,John Ridley,12 Years a Slave,FALSE
+2013,2014,71,Best Screenplay - Motion Picture,"Steve Coogan, Jeff Pope",Philomena,FALSE
+2013,2014,71,Best Screenplay - Motion Picture,"Eric Warren Singer , David O. Russell",American Hustle,FALSE
+2013,2014,71,Best Screenplay - Motion Picture,Bob Nelson,Nebraska,FALSE
+2013,2014,71,Best Motion Picture - Animated,Frozen,,TRUE
+2013,2014,71,Best Motion Picture - Animated,Despicable Me 2,,FALSE
+2013,2014,71,Best Motion Picture - Animated,"Croods, The",,FALSE
+2013,2014,71,Best Motion Picture - Foreign Language,The Great Beauty,"Italy, Paolo Sorrentino",TRUE
+2013,2014,71,Best Motion Picture - Foreign Language,Blue is the Warmest Color,"France, Abdellatif Kechiche",FALSE
+2013,2014,71,Best Motion Picture - Foreign Language,The Hunt,"Denmark, Thomas Vinterberg",FALSE
+2013,2014,71,Best Motion Picture - Foreign Language,The Past,"Iran, Asghar Farhadi ",FALSE
+2013,2014,71,Best Motion Picture - Foreign Language,The Wind Rises,"Japan, Hayao Miyazaki",FALSE
+2013,2014,71,Best Original Score - Motion Picture,Alex Ebert,All Is Lost,TRUE
+2013,2014,71,Best Original Score - Motion Picture,John Williams,The Book Thief,FALSE
+2013,2014,71,Best Original Score - Motion Picture,Hans Zimmer,12 Years a Slave,FALSE
+2013,2014,71,Best Original Score - Motion Picture,Steven Price,Gravity,FALSE
+2013,2014,71,Best Original Score - Motion Picture,Alex Heffes,Mandela: Long Walk to Freedom,FALSE
+2013,2014,71,Best Original Song - Motion Picture,"""Ordinary Love"", U2, Danger Mouse, Bono",Mandela: Long Walk to Freedom,TRUE
+2013,2014,71,Best Original Song - Motion Picture,"""Please Mr. Kennedy"", Ed Rush, George Cromarty, T Bone Burnett, Justin Timberlake, Joel Coen, Ethan Coen",Inside Llewyn Davis,FALSE
+2013,2014,71,Best Original Song - Motion Picture,"""Let It Go"", Kristen Anderson Lopez, Robert Lopez",Frozen,FALSE
+2013,2014,71,Best Original Song - Motion Picture,"""Sweeter Than Fiction"", Taylor Swift, Jack Antonoff",One Chance,FALSE
+2013,2014,71,Best Original Song - Motion Picture,"""Atlas"", Chris Martin, Guy Berryman, Jon Buckland, Will Champion",The Hunger Games: Catching Fire,FALSE
+2013,2014,71,Best Television Series - Drama,Breaking Bad,,TRUE
+2013,2014,71,Best Television Series - Drama,The Good Wife,,FALSE
+2013,2014,71,Best Television Series - Drama,House of Cards,,FALSE
+2013,2014,71,Best Television Series - Drama,Masters of Sex,,FALSE
+2013,2014,71,Best Television Series - Drama,Downton Abbey,,FALSE
+2013,2014,71,Best Television Series - Musical or Comedy,Brooklyn Nine-Nine,,TRUE
+2013,2014,71,Best Television Series - Musical or Comedy,Girls,,FALSE
+2013,2014,71,Best Television Series - Musical or Comedy,Modern Family,,FALSE
+2013,2014,71,Best Television Series - Musical or Comedy,Parks And Recreation,,FALSE
+2013,2014,71,Best Television Series - Musical or Comedy,"Big Bang Theory, The",,FALSE
+2013,2014,71,Best Television Limited Series or Motion Picture Made for Television,Behind the Candelabra,,TRUE
+2013,2014,71,Best Television Limited Series or Motion Picture Made for Television,American Horror Story: Coven,,FALSE
+2013,2014,71,Best Television Limited Series or Motion Picture Made for Television,Top of the Lake,,FALSE
+2013,2014,71,Best Television Limited Series or Motion Picture Made for Television,Dancing on the Edge,,FALSE
+2013,2014,71,Best Television Limited Series or Motion Picture Made for Television,The White Queen,,FALSE
+2013,2014,71,Best Performance by an Actress in a Limited Series or a Motion Picture Made for Television,Elisabeth Moss,Top of the Lake,TRUE
+2013,2014,71,Best Performance by an Actress in a Limited Series or a Motion Picture Made for Television,Rebecca Ferguson,The White Queen,FALSE
+2013,2014,71,Best Performance by an Actress in a Limited Series or a Motion Picture Made for Television,Jessica Lange,American Horror Story: Coven,FALSE
+2013,2014,71,Best Performance by an Actress in a Limited Series or a Motion Picture Made for Television,Helena Bonham Carter,Burton and Taylor,FALSE
+2013,2014,71,Best Performance by an Actress in a Limited Series or a Motion Picture Made for Television,Helen Mirren,Phil Spector,FALSE
+2013,2014,71,Best Performance by an Actor in a Limited Series or a Motion Picture Made for Television,Michael Douglas,Behind the Candelabra,TRUE
+2013,2014,71,Best Performance by an Actor in a Limited Series or a Motion Picture Made for Television,Al Pacino,Phil Spector,FALSE
+2013,2014,71,Best Performance by an Actor in a Limited Series or a Motion Picture Made for Television,Matt Damon,Behind the Candelabra,FALSE
+2013,2014,71,Best Performance by an Actor in a Limited Series or a Motion Picture Made for Television,Chiwetel Ejiofor,Dancing on the Edge,FALSE
+2013,2014,71,Best Performance by an Actor in a Limited Series or a Motion Picture Made for Television,Idris Elba,Luther,FALSE
+2013,2014,71,Best Performance by an Actress In A Television Series - Drama,Robin Wright,House of Cards,TRUE
+2013,2014,71,Best Performance by an Actress In A Television Series - Drama,Taylor Schilling,Orange is the New Black,FALSE
+2013,2014,71,Best Performance by an Actress In A Television Series - Drama,Tatiana Maslany,Orphan Black,FALSE
+2013,2014,71,Best Performance by an Actress In A Television Series - Drama,Kerry Washington,Scandal (TV),FALSE
+2013,2014,71,Best Performance by an Actress In A Television Series - Drama,Julianna Margulies,The Good Wife,FALSE
+2013,2014,71,Best Performance by an Actor In A Television Series - Drama,Bryan Cranston,Breaking Bad,TRUE
+2013,2014,71,Best Performance by an Actor In A Television Series - Drama,Liev Schreiber,Ray Donovan,FALSE
+2013,2014,71,Best Performance by an Actor In A Television Series - Drama,James Spader,"Blacklist, The",FALSE
+2013,2014,71,Best Performance by an Actor In A Television Series - Drama,Kevin Spacey,House of Cards,FALSE
+2013,2014,71,Best Performance by an Actor In A Television Series - Drama,Michael Sheen,Masters of Sex,FALSE
+2013,2014,71,Best Performance by an Actress in a Television Series - Musical or Comedy,Amy Poehler,Parks And Recreation,TRUE
+2013,2014,71,Best Performance by an Actress in a Television Series - Musical or Comedy,Lena Dunham,Girls,FALSE
+2013,2014,71,Best Performance by an Actress in a Television Series - Musical or Comedy,Zooey Deschanel,New Girl,FALSE
+2013,2014,71,Best Performance by an Actress in a Television Series - Musical or Comedy,Edie Falco,Nurse Jackie,FALSE
+2013,2014,71,Best Performance by an Actress in a Television Series - Musical or Comedy,Julia Louis-Dreyfus,Veep,FALSE
+2013,2014,71,Best Performance by an Actor in a Television Series - Musical or Comedy,Andy Samberg,Brooklyn Nine-Nine,TRUE
+2013,2014,71,Best Performance by an Actor in a Television Series - Musical or Comedy,Michael J. Fox,"Michael J. Fox Show, The",FALSE
+2013,2014,71,Best Performance by an Actor in a Television Series - Musical or Comedy,Jim Parsons,"Big Bang Theory, The",FALSE
+2013,2014,71,Best Performance by an Actor in a Television Series - Musical or Comedy,Jason Bateman,Arrested Development,FALSE
+2013,2014,71,Best Performance by an Actor in a Television Series - Musical or Comedy,Don Cheadle,House of Lies,FALSE
+2013,2014,71,"Best Performance by an Actress in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Jacqueline Bisset,Dancing on the Edge,TRUE
+2013,2014,71,"Best Performance by an Actress in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Janet McTeer,The White Queen,FALSE
+2013,2014,71,"Best Performance by an Actress in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Sofia Vergara,Modern Family,FALSE
+2013,2014,71,"Best Performance by an Actress in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Hayden Panettiere,Nashville ( TV ),FALSE
+2013,2014,71,"Best Performance by an Actress in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Monica Potter,Parenthood (TV),FALSE
+2013,2014,71,"Best Performance by an Actor in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Jon Voight,Ray Donovan,TRUE
+2013,2014,71,"Best Performance by an Actor in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Rob Lowe,Behind the Candelabra,FALSE
+2013,2014,71,"Best Performance by an Actor in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Corey Stoll,House of Cards,FALSE
+2013,2014,71,"Best Performance by an Actor in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Aaron Paul,Breaking Bad,FALSE
+2013,2014,71,"Best Performance by an Actor in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Josh Charles,The Good Wife,FALSE
+2013,2014,71,Cecil B. deMille Award,Woody Allen,,FALSE
+2014,2015,72,Best Motion Picture - Drama,Boyhood,,TRUE
+2014,2015,72,Best Motion Picture - Drama,The Imitation Game,,FALSE
+2014,2015,72,Best Motion Picture - Drama,Selma,,FALSE
+2014,2015,72,Best Motion Picture - Drama,Foxcatcher,,FALSE
+2014,2015,72,Best Motion Picture - Drama,The Theory of Everything,,FALSE
+2014,2015,72,Best Motion Picture - Musical or Comedy,"Grand Budapest Hotel, The",,TRUE
+2014,2015,72,Best Motion Picture - Musical or Comedy,Into the Woods,,FALSE
+2014,2015,72,Best Motion Picture - Musical or Comedy,St. Vincent,,FALSE
+2014,2015,72,Best Motion Picture - Musical or Comedy,Pride,,FALSE
+2014,2015,72,Best Motion Picture - Musical or Comedy,Birdman,,FALSE
+2014,2015,72,Best Performance by an Actress in a Motion Picture - Drama,Julianne Moore,Still Alice,TRUE
+2014,2015,72,Best Performance by an Actress in a Motion Picture - Drama,Jennifer Aniston,Cake,FALSE
+2014,2015,72,Best Performance by an Actress in a Motion Picture - Drama,Felicity Jones,The Theory of Everything,FALSE
+2014,2015,72,Best Performance by an Actress in a Motion Picture - Drama,Rosamund Pike,Gone Girl,FALSE
+2014,2015,72,Best Performance by an Actress in a Motion Picture - Drama,Reese Witherspoon,Wild,FALSE
+2014,2015,72,Best Performance by an Actor in a Motion Picture - Drama,Eddie Redmayne,The Theory of Everything,TRUE
+2014,2015,72,Best Performance by an Actor in a Motion Picture - Drama,Steve Carell,Foxcatcher,FALSE
+2014,2015,72,Best Performance by an Actor in a Motion Picture - Drama,Jake Gyllenhaal,Nightcrawler,FALSE
+2014,2015,72,Best Performance by an Actor in a Motion Picture - Drama,Benedict Cumberbatch,The Imitation Game,FALSE
+2014,2015,72,Best Performance by an Actor in a Motion Picture - Drama,David Oyelowo,Selma,FALSE
+2014,2015,72,Best Performance by an Actress in a Motion Picture - Musical or Comedy,Amy Adams,Big Eyes,TRUE
+2014,2015,72,Best Performance by an Actress in a Motion Picture - Musical or Comedy,Emily Blunt,Into the Woods,FALSE
+2014,2015,72,Best Performance by an Actress in a Motion Picture - Musical or Comedy,Helen Mirren,"Hundred-Foot Journey, The",FALSE
+2014,2015,72,Best Performance by an Actress in a Motion Picture - Musical or Comedy,Julianne Moore,Maps To The Stars,FALSE
+2014,2015,72,Best Performance by an Actress in a Motion Picture - Musical or Comedy,Quvenzhané Wallis,Annie (2014),FALSE
+2014,2015,72,Best Performance by an Actor in a Motion Picture - Musical or Comedy,Michael Keaton,Birdman,TRUE
+2014,2015,72,Best Performance by an Actor in a Motion Picture - Musical or Comedy,Ralph Fiennes,"Grand Budapest Hotel, The",FALSE
+2014,2015,72,Best Performance by an Actor in a Motion Picture - Musical or Comedy,Christoph Waltz,Big Eyes,FALSE
+2014,2015,72,Best Performance by an Actor in a Motion Picture - Musical or Comedy,Bill Murray,St. Vincent,FALSE
+2014,2015,72,Best Performance by an Actor in a Motion Picture - Musical or Comedy,Joaquin Phoenix,Inherent Vice,FALSE
+2014,2015,72,Best Performance by an Actress in a Supporting Role in any Motion Picture,Patricia Arquette,Boyhood,TRUE
+2014,2015,72,Best Performance by an Actress in a Supporting Role in any Motion Picture,Emma Stone,Birdman,FALSE
+2014,2015,72,Best Performance by an Actress in a Supporting Role in any Motion Picture,Keira Knightley,The Imitation Game,FALSE
+2014,2015,72,Best Performance by an Actress in a Supporting Role in any Motion Picture,Meryl Streep,Into the Woods,FALSE
+2014,2015,72,Best Performance by an Actress in a Supporting Role in any Motion Picture,Jessica Chastain,A Most Violent Year,FALSE
+2014,2015,72,Best Performance by an Actor in a Supporting Role in any Motion Picture,J.K. Simmons,Whiplash,TRUE
+2014,2015,72,Best Performance by an Actor in a Supporting Role in any Motion Picture,Mark Ruffalo,Foxcatcher,FALSE
+2014,2015,72,Best Performance by an Actor in a Supporting Role in any Motion Picture,Robert Duvall,"Judge, The",FALSE
+2014,2015,72,Best Performance by an Actor in a Supporting Role in any Motion Picture,Ethan Hawke,Boyhood,FALSE
+2014,2015,72,Best Performance by an Actor in a Supporting Role in any Motion Picture,Edward Norton,Birdman,FALSE
+2014,2015,72,Best Director - Motion Picture,Richard Linklater,Boyhood,TRUE
+2014,2015,72,Best Director - Motion Picture,Alejandro González Iñárritu,Birdman,FALSE
+2014,2015,72,Best Director - Motion Picture,David Fincher,Gone Girl,FALSE
+2014,2015,72,Best Director - Motion Picture,Wes Anderson,"Grand Budapest Hotel, The",FALSE
+2014,2015,72,Best Director - Motion Picture,Ava DuVernay,Selma,FALSE
+2014,2015,72,Best Screenplay - Motion Picture,"Alejandro González Iñárritu, Nicolás Giacobone, Alexander Dinelaris, Armando Bo",Birdman,TRUE
+2014,2015,72,Best Screenplay - Motion Picture,Graham Moore,The Imitation Game,FALSE
+2014,2015,72,Best Screenplay - Motion Picture,Gillian Flynn,Gone Girl,FALSE
+2014,2015,72,Best Screenplay - Motion Picture,Wes Anderson,"Grand Budapest Hotel, The",FALSE
+2014,2015,72,Best Screenplay - Motion Picture,Richard Linklater,Boyhood,FALSE
+2014,2015,72,Best Motion Picture - Animated,How to Train Your Dragon 2,,TRUE
+2014,2015,72,Best Motion Picture - Animated,Big Hero 6,,FALSE
+2014,2015,72,Best Motion Picture - Animated,"Book of Life, The",,FALSE
+2014,2015,72,Best Motion Picture - Animated,"Boxtrolls, The",,FALSE
+2014,2015,72,Best Motion Picture - Animated,"LEGO Movie, The",,FALSE
+2014,2015,72,Best Motion Picture - Foreign Language,Leviathan,"Russia, Andrey Zvyagintsev ",TRUE
+2014,2015,72,Best Motion Picture - Foreign Language,Gett: The Trial of Viviane Amsalem,"Israel, Ronit Elkabetz, Shlomi Elkabetz",FALSE
+2014,2015,72,Best Motion Picture - Foreign Language,Ida,"Poland, Denmark, Pawel Pawlikowski",FALSE
+2014,2015,72,Best Motion Picture - Foreign Language,Tangerines,"Estonia, Zaza Urushadze",FALSE
+2014,2015,72,Best Motion Picture - Foreign Language,Force Majeure,"Sweden, Ruben Östlund",FALSE
+2014,2015,72,Best Original Score - Motion Picture,Jóhann Jóhannsson,The Theory of Everything,TRUE
+2014,2015,72,Best Original Score - Motion Picture,Antonio Sanchez,Birdman,FALSE
+2014,2015,72,Best Original Score - Motion Picture,Alexandre Desplat,The Imitation Game,FALSE
+2014,2015,72,Best Original Score - Motion Picture,"Trent Reznor, Atticus Ross",Gone Girl,FALSE
+2014,2015,72,Best Original Score - Motion Picture,Hans Zimmer,Interstellar,FALSE
+2014,2015,72,Best Original Song - Motion Picture,"""Glory"", Common, John Legend",Selma,TRUE
+2014,2015,72,Best Original Song - Motion Picture,"""Big Eyes"", Lana Del Rey, Daniel Heath",Big Eyes,FALSE
+2014,2015,72,Best Original Song - Motion Picture,"""Yellow Flicker Beat"", Lorde, Joel Little",The Hunger Games: Mockingjay - Part 1,FALSE
+2014,2015,72,Best Original Song - Motion Picture,"""Mercy Is"", Patti Smith, Lenny Kaye",Noah,FALSE
+2014,2015,72,Best Original Song - Motion Picture,"""Opportunity"", Sia, Will Gluck, Greg Kurstin",Annie (2014),FALSE
+2014,2015,72,Best Television Series - Drama,"Affair, The",,TRUE
+2014,2015,72,Best Television Series - Drama,House of Cards,,FALSE
+2014,2015,72,Best Television Series - Drama,Downton Abbey,,FALSE
+2014,2015,72,Best Television Series - Drama,Game of Thrones,,FALSE
+2014,2015,72,Best Television Series - Drama,The Good Wife,,FALSE
+2014,2015,72,Best Television Series - Musical or Comedy,Transparent,,TRUE
+2014,2015,72,Best Television Series - Musical or Comedy,Orange is the New Black,,FALSE
+2014,2015,72,Best Television Series - Musical or Comedy,Girls,,FALSE
+2014,2015,72,Best Television Series - Musical or Comedy,Jane The Virgin,,FALSE
+2014,2015,72,Best Television Series - Musical or Comedy,Silicon Valley,,FALSE
+2014,2015,72,Best Television Limited Series or Motion Picture Made for Television,Fargo,,TRUE
+2014,2015,72,Best Television Limited Series or Motion Picture Made for Television,True Detective,,FALSE
+2014,2015,72,Best Television Limited Series or Motion Picture Made for Television,The Normal Heart,,FALSE
+2014,2015,72,Best Television Limited Series or Motion Picture Made for Television,Olive Kitteridge,,FALSE
+2014,2015,72,Best Television Limited Series or Motion Picture Made for Television,The Missing,,FALSE
+2014,2015,72,Best Performance by an Actress in a Limited Series or a Motion Picture Made for Television,Maggie Gyllenhaal,"Honourable Woman, The",TRUE
+2014,2015,72,Best Performance by an Actress in a Limited Series or a Motion Picture Made for Television,Allison Tolman,Fargo,FALSE
+2014,2015,72,Best Performance by an Actress in a Limited Series or a Motion Picture Made for Television,Frances McDormand,Olive Kitteridge,FALSE
+2014,2015,72,Best Performance by an Actress in a Limited Series or a Motion Picture Made for Television,Jessica Lange,American Horror Story: Freak Show,FALSE
+2014,2015,72,Best Performance by an Actress in a Limited Series or a Motion Picture Made for Television,Frances O'Connor,The Missing,FALSE
+2014,2015,72,Best Performance by an Actor in a Limited Series or a Motion Picture Made for Television,Billy Bob Thornton,Fargo,TRUE
+2014,2015,72,Best Performance by an Actor in a Limited Series or a Motion Picture Made for Television,Woody Harrelson,True Detective,FALSE
+2014,2015,72,Best Performance by an Actor in a Limited Series or a Motion Picture Made for Television,Matthew McConaughey,True Detective,FALSE
+2014,2015,72,Best Performance by an Actor in a Limited Series or a Motion Picture Made for Television,Mark Ruffalo,The Normal Heart,FALSE
+2014,2015,72,Best Performance by an Actor in a Limited Series or a Motion Picture Made for Television,Martin Freeman,Fargo,FALSE
+2014,2015,72,Best Performance by an Actress In A Television Series - Drama,Ruth Wilson,"Affair, The",TRUE
+2014,2015,72,Best Performance by an Actress In A Television Series - Drama,Julianna Margulies,The Good Wife,FALSE
+2014,2015,72,Best Performance by an Actress In A Television Series - Drama,Robin Wright,House of Cards,FALSE
+2014,2015,72,Best Performance by an Actress In A Television Series - Drama,Claire Danes,Homeland,FALSE
+2014,2015,72,Best Performance by an Actress In A Television Series - Drama,Viola Davis,How To Get Away With Murder,FALSE
+2014,2015,72,Best Performance by an Actor In A Television Series - Drama,Kevin Spacey,House of Cards,TRUE
+2014,2015,72,Best Performance by an Actor In A Television Series - Drama,James Spader,"Blacklist, The",FALSE
+2014,2015,72,Best Performance by an Actor In A Television Series - Drama,Clive Owen,"Knick, The",FALSE
+2014,2015,72,Best Performance by an Actor In A Television Series - Drama,Dominic West,"Affair, The",FALSE
+2014,2015,72,Best Performance by an Actor In A Television Series - Drama,Liev Schreiber,Ray Donovan,FALSE
+2014,2015,72,Best Performance by an Actress in a Television Series - Musical or Comedy,Gina Rodriguez,Jane The Virgin,TRUE
+2014,2015,72,Best Performance by an Actress in a Television Series - Musical or Comedy,Taylor Schilling,Orange is the New Black,FALSE
+2014,2015,72,Best Performance by an Actress in a Television Series - Musical or Comedy,Lena Dunham,Girls,FALSE
+2014,2015,72,Best Performance by an Actress in a Television Series - Musical or Comedy,Edie Falco,Nurse Jackie,FALSE
+2014,2015,72,Best Performance by an Actress in a Television Series - Musical or Comedy,Julia Louis-Dreyfus,Veep,FALSE
+2014,2015,72,Best Performance by an Actor in a Television Series - Musical or Comedy,Jeffrey Tambor,Transparent,TRUE
+2014,2015,72,Best Performance by an Actor in a Television Series - Musical or Comedy,William H. Macy,Shameless,FALSE
+2014,2015,72,Best Performance by an Actor in a Television Series - Musical or Comedy,Ricky Gervais,Derek,FALSE
+2014,2015,72,Best Performance by an Actor in a Television Series - Musical or Comedy,Don Cheadle,House of Lies,FALSE
+2014,2015,72,Best Performance by an Actor in a Television Series - Musical or Comedy,Louis C.K.,Louie,FALSE
+2014,2015,72,"Best Performance by an Actress in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Joanne Froggatt,Downton Abbey,TRUE
+2014,2015,72,"Best Performance by an Actress in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Michelle Monaghan,True Detective,FALSE
+2014,2015,72,"Best Performance by an Actress in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Uzo Aduba,Orange is the New Black,FALSE
+2014,2015,72,"Best Performance by an Actress in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Kathy Bates,American Horror Story: Freak Show,FALSE
+2014,2015,72,"Best Performance by an Actress in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Allison Janney,Mom,FALSE
+2014,2015,72,"Best Performance by an Actor in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Matt Bomer,The Normal Heart,TRUE
+2014,2015,72,"Best Performance by an Actor in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Bill Murray,Olive Kitteridge,FALSE
+2014,2015,72,"Best Performance by an Actor in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Jon Voight,Ray Donovan,FALSE
+2014,2015,72,"Best Performance by an Actor in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Colin Hanks,Fargo,FALSE
+2014,2015,72,"Best Performance by an Actor in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Alan Cumming,,FALSE
+2014,2015,72,Cecil B. deMille Award,George Clooney,,FALSE
+2015,2016,73,Best Motion Picture - Drama,The Revenant,,TRUE
+2015,2016,73,Best Motion Picture - Drama,Carol,,FALSE
+2015,2016,73,Best Motion Picture - Drama,Mad Max: Fury Road,,FALSE
+2015,2016,73,Best Motion Picture - Drama,Room,,FALSE
+2015,2016,73,Best Motion Picture - Drama,Spotlight,,FALSE
+2015,2016,73,Best Motion Picture - Musical or Comedy,The Martian,,TRUE
+2015,2016,73,Best Motion Picture - Musical or Comedy,Spy,,FALSE
+2015,2016,73,Best Motion Picture - Musical or Comedy,"Big Short, The",,FALSE
+2015,2016,73,Best Motion Picture - Musical or Comedy,Trainwreck,,FALSE
+2015,2016,73,Best Motion Picture - Musical or Comedy,Joy,,FALSE
+2015,2016,73,Best Performance by an Actress in a Motion Picture - Drama,Brie Larson,Room,TRUE
+2015,2016,73,Best Performance by an Actress in a Motion Picture - Drama,Cate Blanchett,Carol,FALSE
+2015,2016,73,Best Performance by an Actress in a Motion Picture - Drama,Rooney Mara,Carol,FALSE
+2015,2016,73,Best Performance by an Actress in a Motion Picture - Drama,Alicia Vikander,The Danish Girl,FALSE
+2015,2016,73,Best Performance by an Actress in a Motion Picture - Drama,Saoirse Ronan,Brooklyn,FALSE
+2015,2016,73,Best Performance by an Actor in a Motion Picture - Drama,Leonardo DiCaprio,The Revenant,TRUE
+2015,2016,73,Best Performance by an Actor in a Motion Picture - Drama,Will Smith,Concussion,FALSE
+2015,2016,73,Best Performance by an Actor in a Motion Picture - Drama,Michael Fassbender,Steve Jobs,FALSE
+2015,2016,73,Best Performance by an Actor in a Motion Picture - Drama,Eddie Redmayne,The Danish Girl,FALSE
+2015,2016,73,Best Performance by an Actor in a Motion Picture - Drama,Bryan Cranston,Trumbo,FALSE
+2015,2016,73,Best Performance by an Actress in a Motion Picture - Musical or Comedy,Jennifer Lawrence,Joy,TRUE
+2015,2016,73,Best Performance by an Actress in a Motion Picture - Musical or Comedy,Maggie Smith,"Lady in the Van, The",FALSE
+2015,2016,73,Best Performance by an Actress in a Motion Picture - Musical or Comedy,Amy Schumer,Trainwreck,FALSE
+2015,2016,73,Best Performance by an Actress in a Motion Picture - Musical or Comedy,Lily Tomlin,Grandma,FALSE
+2015,2016,73,Best Performance by an Actress in a Motion Picture - Musical or Comedy,Melissa McCarthy,Spy,FALSE
+2015,2016,73,Best Performance by an Actor in a Motion Picture - Musical or Comedy,Matt Damon,The Martian,TRUE
+2015,2016,73,Best Performance by an Actor in a Motion Picture - Musical or Comedy,Al Pacino,Danny Collins,FALSE
+2015,2016,73,Best Performance by an Actor in a Motion Picture - Musical or Comedy,Mark Ruffalo,Infinitely Polar Bear,FALSE
+2015,2016,73,Best Performance by an Actor in a Motion Picture - Musical or Comedy,Christian Bale,"Big Short, The",FALSE
+2015,2016,73,Best Performance by an Actor in a Motion Picture - Musical or Comedy,Steve Carell,"Big Short, The",FALSE
+2015,2016,73,Best Performance by an Actress in a Supporting Role in any Motion Picture,Kate Winslet,Steve Jobs,TRUE
+2015,2016,73,Best Performance by an Actress in a Supporting Role in any Motion Picture,Jane Fonda,Youth,FALSE
+2015,2016,73,Best Performance by an Actress in a Supporting Role in any Motion Picture,Alicia Vikander,Ex Machina,FALSE
+2015,2016,73,Best Performance by an Actress in a Supporting Role in any Motion Picture,Jennifer Jason Leigh,The Hateful Eight,FALSE
+2015,2016,73,Best Performance by an Actress in a Supporting Role in any Motion Picture,Helen Mirren,Trumbo,FALSE
+2015,2016,73,Best Performance by an Actor in a Supporting Role in any Motion Picture,Sylvester Stallone,Creed,TRUE
+2015,2016,73,Best Performance by an Actor in a Supporting Role in any Motion Picture,Michael Shannon,99 Homes,FALSE
+2015,2016,73,Best Performance by an Actor in a Supporting Role in any Motion Picture,Idris Elba,Beasts of No Nation,FALSE
+2015,2016,73,Best Performance by an Actor in a Supporting Role in any Motion Picture,Mark Rylance,Bridge of Spies,FALSE
+2015,2016,73,Best Performance by an Actor in a Supporting Role in any Motion Picture,Paul Dano,Love & Mercy,FALSE
+2015,2016,73,Best Director - Motion Picture,Alejandro González Iñárritu,The Revenant,TRUE
+2015,2016,73,Best Director - Motion Picture,Ridley Scott,The Martian,FALSE
+2015,2016,73,Best Director - Motion Picture,Todd Haynes,Carol,FALSE
+2015,2016,73,Best Director - Motion Picture,George Miller,Mad Max: Fury Road,FALSE
+2015,2016,73,Best Director - Motion Picture,Tom McCarthy,Spotlight,FALSE
+2015,2016,73,Best Screenplay - Motion Picture,Aaron Sorkin,Steve Jobs,TRUE
+2015,2016,73,Best Screenplay - Motion Picture,Emma Donoghue,Room,FALSE
+2015,2016,73,Best Screenplay - Motion Picture,"Tom McCarthy, Josh Singer",Spotlight,FALSE
+2015,2016,73,Best Screenplay - Motion Picture,"Charles Randolph, Adam McKay","Big Short, The",FALSE
+2015,2016,73,Best Screenplay - Motion Picture,Quentin Tarantino,The Hateful Eight,FALSE
+2015,2016,73,Best Motion Picture - Animated,Inside Out,,TRUE
+2015,2016,73,Best Motion Picture - Animated,The Peanuts Movie,,FALSE
+2015,2016,73,Best Motion Picture - Animated,Anomalisa,,FALSE
+2015,2016,73,Best Motion Picture - Animated,Shaun the Sheep Movie,,FALSE
+2015,2016,73,Best Motion Picture - Animated,The Good Dinosaur,,FALSE
+2015,2016,73,Best Motion Picture - Foreign Language,Son of Saul,"Hungary, László Nemes",TRUE
+2015,2016,73,Best Motion Picture - Foreign Language,Mustang,"France, Deniz Gamze Ergüven",FALSE
+2015,2016,73,Best Motion Picture - Foreign Language,The Brand New Testament,"Belgium, France, Luxembourg, Jaco Van Dormael",FALSE
+2015,2016,73,Best Motion Picture - Foreign Language,The Club,"Chile, Pablo Larraín",FALSE
+2015,2016,73,Best Motion Picture - Foreign Language,The Fencer,"Finland, Germany, Estonia, Klaus Härö",FALSE
+2015,2016,73,Best Original Score - Motion Picture,Ennio Morricone,The Hateful Eight,TRUE
+2015,2016,73,Best Original Score - Motion Picture,Carter Burwell,Carol,FALSE
+2015,2016,73,Best Original Score - Motion Picture,Daniel Pemberton,Steve Jobs,FALSE
+2015,2016,73,Best Original Score - Motion Picture,Alexandre Desplat,The Danish Girl,FALSE
+2015,2016,73,Best Original Score - Motion Picture,"Ryuichi Sakamoto, Alva Noto",The Revenant,FALSE
+2015,2016,73,Best Original Song - Motion Picture,"""Writing's On The Wall"", Sam Smith, Jimmy Napes",Spectre,TRUE
+2015,2016,73,Best Original Song - Motion Picture,"""Love Me Like You Do"", Tove Lo, Max Martin, Savan Kotecha, Ali Payami, Ilya Salmanzadeh",Fifty Shades of Grey,FALSE
+2015,2016,73,Best Original Song - Motion Picture,"""See You Again"", DJ Frank E, Andrew Cedar, Charlie Puth, Wiz Khalifa",Furious 7,FALSE
+2015,2016,73,Best Original Song - Motion Picture,"""One Kind of Love"", Brian Wilson, Scott Bennett",Love & Mercy,FALSE
+2015,2016,73,Best Original Song - Motion Picture,"""Simple Song #3"", David Lang",Youth,FALSE
+2015,2016,73,Best Television Series - Drama,Mr. Robot,,TRUE
+2015,2016,73,Best Television Series - Drama,Game of Thrones,,FALSE
+2015,2016,73,Best Television Series - Drama,Narcos,,FALSE
+2015,2016,73,Best Television Series - Drama,Outlander,,FALSE
+2015,2016,73,Best Television Series - Drama,Empire,,FALSE
+2015,2016,73,Best Television Series - Musical or Comedy,Mozart in the Jungle,,TRUE
+2015,2016,73,Best Television Series - Musical or Comedy,Casual,,FALSE
+2015,2016,73,Best Television Series - Musical or Comedy,Orange is the New Black,,FALSE
+2015,2016,73,Best Television Series - Musical or Comedy,Silicon Valley,,FALSE
+2015,2016,73,Best Television Series - Musical or Comedy,Transparent,,FALSE
+2015,2016,73,Best Television Series - Musical or Comedy,Veep,,FALSE
+2015,2016,73,Best Television Limited Series or Motion Picture Made for Television,Wolf Hall,,TRUE
+2015,2016,73,Best Television Limited Series or Motion Picture Made for Television,American Crime,,FALSE
+2015,2016,73,Best Television Limited Series or Motion Picture Made for Television,American Horror Story: Hotel,,FALSE
+2015,2016,73,Best Television Limited Series or Motion Picture Made for Television,Fargo,,FALSE
+2015,2016,73,Best Television Limited Series or Motion Picture Made for Television,Flesh & Bone,,FALSE
+2015,2016,73,Best Performance by an Actress in a Limited Series or a Motion Picture Made for Television,Lady Gaga,American Horror Story: Hotel,TRUE
+2015,2016,73,Best Performance by an Actress in a Limited Series or a Motion Picture Made for Television,Sarah Hay,Flesh & Bone,FALSE
+2015,2016,73,Best Performance by an Actress in a Limited Series or a Motion Picture Made for Television,Felicity Huffman,American Crime,FALSE
+2015,2016,73,Best Performance by an Actress in a Limited Series or a Motion Picture Made for Television,Queen Latifah,Bessie,FALSE
+2015,2016,73,Best Performance by an Actress in a Limited Series or a Motion Picture Made for Television,Kirsten Dunst,Fargo,FALSE
+2015,2016,73,Best Performance by an Actor in a Limited Series or a Motion Picture Made for Television,Oscar Isaac,Show Me a Hero,TRUE
+2015,2016,73,Best Performance by an Actor in a Limited Series or a Motion Picture Made for Television,Patrick Wilson,Fargo,FALSE
+2015,2016,73,Best Performance by an Actor in a Limited Series or a Motion Picture Made for Television,Idris Elba,Luther,FALSE
+2015,2016,73,Best Performance by an Actor in a Limited Series or a Motion Picture Made for Television,David Oyelowo,Nightingale,FALSE
+2015,2016,73,Best Performance by an Actor in a Limited Series or a Motion Picture Made for Television,Mark Rylance,Wolf Hall,FALSE
+2015,2016,73,Best Performance by an Actress In A Television Series - Drama,Taraji P. Henson,Empire,TRUE
+2015,2016,73,Best Performance by an Actress In A Television Series - Drama,Caitriona Balfe,Outlander,FALSE
+2015,2016,73,Best Performance by an Actress In A Television Series - Drama,Eva Green,Penny Dreadful,FALSE
+2015,2016,73,Best Performance by an Actress In A Television Series - Drama,Robin Wright,House of Cards,FALSE
+2015,2016,73,Best Performance by an Actress In A Television Series - Drama,Viola Davis,How To Get Away With Murder,FALSE
+2015,2016,73,Best Performance by an Actor In A Television Series - Drama,Jon Hamm,Mad Men,TRUE
+2015,2016,73,Best Performance by an Actor In A Television Series - Drama,Wagner Moura,Narcos,FALSE
+2015,2016,73,Best Performance by an Actor In A Television Series - Drama,Liev Schreiber,Ray Donovan,FALSE
+2015,2016,73,Best Performance by an Actor In A Television Series - Drama,Bob Odenkirk,Better Call Saul,FALSE
+2015,2016,73,Best Performance by an Actor In A Television Series - Drama,Rami Malek,Mr. Robot,FALSE
+2015,2016,73,Best Performance by an Actress in a Television Series - Musical or Comedy,Rachel Bloom,Crazy Ex-Girlfriend,TRUE
+2015,2016,73,Best Performance by an Actress in a Television Series - Musical or Comedy,Lily Tomlin,Grace and Frankie,FALSE
+2015,2016,73,Best Performance by an Actress in a Television Series - Musical or Comedy,Gina Rodriguez,Jane The Virgin,FALSE
+2015,2016,73,Best Performance by an Actress in a Television Series - Musical or Comedy,Jamie Lee Curtis,Scream Queens,FALSE
+2015,2016,73,Best Performance by an Actress in a Television Series - Musical or Comedy,Julia Louis-Dreyfus,Veep,FALSE
+2015,2016,73,Best Performance by an Actor in a Television Series - Musical or Comedy,Gael García Bernal,Mozart in the Jungle,TRUE
+2015,2016,73,Best Performance by an Actor in a Television Series - Musical or Comedy,Jeffrey Tambor,Transparent,FALSE
+2015,2016,73,Best Performance by an Actor in a Television Series - Musical or Comedy,Patrick Stewart,Blunt Talk,FALSE
+2015,2016,73,Best Performance by an Actor in a Television Series - Musical or Comedy,Aziz Ansari,Master of None,FALSE
+2015,2016,73,Best Performance by an Actor in a Television Series - Musical or Comedy,Rob Lowe,The Grinder,FALSE
+2015,2016,73,"Best Performance by an Actress in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Maura Tierney,The Affair,TRUE
+2015,2016,73,"Best Performance by an Actress in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Regina King,American Crime,FALSE
+2015,2016,73,"Best Performance by an Actress in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Joanne Froggatt,Downton Abbey,FALSE
+2015,2016,73,"Best Performance by an Actress in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Uzo Aduba,Orange is the New Black,FALSE
+2015,2016,73,"Best Performance by an Actress in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Judith Light,Transparent,FALSE
+2015,2016,73,"Best Performance by an Actor in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Christian Slater,Mr. Robot,TRUE
+2015,2016,73,"Best Performance by an Actor in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Tobias Menzies,Outlander,FALSE
+2015,2016,73,"Best Performance by an Actor in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Alan Cumming,,FALSE
+2015,2016,73,"Best Performance by an Actor in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Damian Lewis,Wolf Hall,FALSE
+2015,2016,73,"Best Performance by an Actor in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Ben Mendelsohn,Bloodline,FALSE
+2015,2016,73,Cecil B. deMille Award,Denzel Washington,,FALSE
+2016,2017,74,Best Motion Picture - Drama,Moonlight,,TRUE
+2016,2017,74,Best Motion Picture - Drama,Hell or High Water,,FALSE
+2016,2017,74,Best Motion Picture - Drama,Lion,,FALSE
+2016,2017,74,Best Motion Picture - Drama,Manchester by the Sea,,FALSE
+2016,2017,74,Best Motion Picture - Drama,Hacksaw Ridge,,FALSE
+2016,2017,74,Best Motion Picture - Musical or Comedy,La La Land,,TRUE
+2016,2017,74,Best Motion Picture - Musical or Comedy,20th Century Women,,FALSE
+2016,2017,74,Best Motion Picture - Musical or Comedy,Deadpool,,FALSE
+2016,2017,74,Best Motion Picture - Musical or Comedy,Florence Foster Jenkins,,FALSE
+2016,2017,74,Best Motion Picture - Musical or Comedy,Sing Street,,FALSE
+2016,2017,74,Best Performance by an Actress in a Motion Picture - Drama,Isabelle Huppert,Elle,TRUE
+2016,2017,74,Best Performance by an Actress in a Motion Picture - Drama,Amy Adams,Arrival,FALSE
+2016,2017,74,Best Performance by an Actress in a Motion Picture - Drama,Jessica Chastain,Miss Sloane,FALSE
+2016,2017,74,Best Performance by an Actress in a Motion Picture - Drama,Ruth Negga,Loving,FALSE
+2016,2017,74,Best Performance by an Actress in a Motion Picture - Drama,Natalie Portman,Jackie,FALSE
+2016,2017,74,Best Performance by an Actor in a Motion Picture - Drama,Casey Affleck,Manchester by the Sea,TRUE
+2016,2017,74,Best Performance by an Actor in a Motion Picture - Drama,Joel Edgerton,Loving,FALSE
+2016,2017,74,Best Performance by an Actor in a Motion Picture - Drama,Andrew Garfield,Hacksaw Ridge,FALSE
+2016,2017,74,Best Performance by an Actor in a Motion Picture - Drama,Viggo Mortensen,Captain Fantastic,FALSE
+2016,2017,74,Best Performance by an Actor in a Motion Picture - Drama,Denzel Washington,Fences,FALSE
+2016,2017,74,Best Performance by an Actress in a Motion Picture - Musical or Comedy,Emma Stone,La La Land,TRUE
+2016,2017,74,Best Performance by an Actress in a Motion Picture - Musical or Comedy,Annette Bening,20th Century Women,FALSE
+2016,2017,74,Best Performance by an Actress in a Motion Picture - Musical or Comedy,Lily Collins,Rules Don't Apply,FALSE
+2016,2017,74,Best Performance by an Actress in a Motion Picture - Musical or Comedy,Hailee Steinfeld,The Edge of Seventeen,FALSE
+2016,2017,74,Best Performance by an Actress in a Motion Picture - Musical or Comedy,Meryl Streep,Florence Foster Jenkins,FALSE
+2016,2017,74,Best Performance by an Actor in a Motion Picture - Musical or Comedy,Ryan Gosling,La La Land,TRUE
+2016,2017,74,Best Performance by an Actor in a Motion Picture - Musical or Comedy,Colin Farrell,The Lobster,FALSE
+2016,2017,74,Best Performance by an Actor in a Motion Picture - Musical or Comedy,Hugh Grant,Florence Foster Jenkins,FALSE
+2016,2017,74,Best Performance by an Actor in a Motion Picture - Musical or Comedy,Jonah Hill,War Dogs,FALSE
+2016,2017,74,Best Performance by an Actor in a Motion Picture - Musical or Comedy,Ryan Reynolds,Deadpool,FALSE
+2016,2017,74,Best Performance by an Actress in a Supporting Role in any Motion Picture,Viola Davis,Fences,TRUE
+2016,2017,74,Best Performance by an Actress in a Supporting Role in any Motion Picture,Naomie Harris,Moonlight,FALSE
+2016,2017,74,Best Performance by an Actress in a Supporting Role in any Motion Picture,Nicole Kidman,Lion,FALSE
+2016,2017,74,Best Performance by an Actress in a Supporting Role in any Motion Picture,Octavia Spencer,Hidden Figures,FALSE
+2016,2017,74,Best Performance by an Actress in a Supporting Role in any Motion Picture,Michelle Williams,Manchester by the Sea,FALSE
+2016,2017,74,Best Performance by an Actor in a Supporting Role in any Motion Picture,Aaron Taylor-Johnson,Nocturnal Animals,TRUE
+2016,2017,74,Best Performance by an Actor in a Supporting Role in any Motion Picture,Mahershala Ali,Moonlight,FALSE
+2016,2017,74,Best Performance by an Actor in a Supporting Role in any Motion Picture,Jeff Bridges,Hell or High Water,FALSE
+2016,2017,74,Best Performance by an Actor in a Supporting Role in any Motion Picture,Simon Helberg,Florence Foster Jenkins,FALSE
+2016,2017,74,Best Performance by an Actor in a Supporting Role in any Motion Picture,Dev Patel,Lion,FALSE
+2016,2017,74,Best Director - Motion Picture,Damien Chazelle,La La Land,TRUE
+2016,2017,74,Best Director - Motion Picture,Barry Jenkins,Moonlight,FALSE
+2016,2017,74,Best Director - Motion Picture,Kenneth Lonergan,Manchester by the Sea,FALSE
+2016,2017,74,Best Director - Motion Picture,Tom Ford,Nocturnal Animals,FALSE
+2016,2017,74,Best Director - Motion Picture,Mel Gibson,Hacksaw Ridge,FALSE
+2016,2017,74,Best Screenplay - Motion Picture,Damien Chazelle,La La Land,TRUE
+2016,2017,74,Best Screenplay - Motion Picture,Tom Ford,Nocturnal Animals,FALSE
+2016,2017,74,Best Screenplay - Motion Picture,Barry Jenkins,Moonlight,FALSE
+2016,2017,74,Best Screenplay - Motion Picture,Kenneth Lonergan,Manchester by the Sea,FALSE
+2016,2017,74,Best Screenplay - Motion Picture,Taylor Sheridan,Hell or High Water,FALSE
+2016,2017,74,Best Motion Picture - Animated,Zootopia,,TRUE
+2016,2017,74,Best Motion Picture - Animated,Kubo and the Two Strings,,FALSE
+2016,2017,74,Best Motion Picture - Animated,Moana,,FALSE
+2016,2017,74,Best Motion Picture - Animated,My Life as a Zucchini,,FALSE
+2016,2017,74,Best Motion Picture - Animated,Sing,,FALSE
+2016,2017,74,Best Motion Picture - Foreign Language,Elle,"France, Paul Verhoeven",TRUE
+2016,2017,74,Best Motion Picture - Foreign Language,Divines,"France, Houda Benyamina",FALSE
+2016,2017,74,Best Motion Picture - Foreign Language,Neruda,"Chile, Pablo Larraín",FALSE
+2016,2017,74,Best Motion Picture - Foreign Language,The Salesman,"Iran, Asghar Farhadi ",FALSE
+2016,2017,74,Best Motion Picture - Foreign Language,Toni Erdmann,"Germany, Maren Ade",FALSE
+2016,2017,74,Best Original Score - Motion Picture,Justin Hurwitz,La La Land,TRUE
+2016,2017,74,Best Original Score - Motion Picture,Nicholas Britell,Moonlight,FALSE
+2016,2017,74,Best Original Score - Motion Picture,Jóhann Jóhannsson,Arrival,FALSE
+2016,2017,74,Best Original Score - Motion Picture,"Dustin O'Halloran, Hauschka",Lion,FALSE
+2016,2017,74,Best Original Score - Motion Picture,"Hans Zimmer, Pharrell Williams, Benjamin Wallfisch",Hidden Figures,FALSE
+2016,2017,74,Best Original Song - Motion Picture,"""City of Stars"", Justin Hurwitz, Benj Pasek, Justin Paul",La La Land,TRUE
+2016,2017,74,Best Original Song - Motion Picture,"""Gold"", Iggy Pop, Danger Mouse, Daniel Pemberton, Stephen Gaghan",Gold,FALSE
+2016,2017,74,Best Original Song - Motion Picture,"""How Far I'll Go"", Lin-Manuel Miranda",Moana,FALSE
+2016,2017,74,Best Original Song - Motion Picture,"""Can't Stop the Feeling!"", Justin Timberlake, Max Martin, Shellback",Trolls,FALSE
+2016,2017,74,Best Original Song - Motion Picture,"""Faith"", Stevie Wonder, Ryan Tedder, Francis and the Lights",Sing,FALSE
+2016,2017,74,Best Television Series - Drama,"Crown, The ",,TRUE
+2016,2017,74,Best Television Series - Drama,Game of Thrones,,FALSE
+2016,2017,74,Best Television Series - Drama,Stranger Things,,FALSE
+2016,2017,74,Best Television Series - Drama,This Is Us,,FALSE
+2016,2017,74,Best Television Series - Drama,Westworld,,FALSE
+2016,2017,74,Best Television Series - Musical or Comedy,Atlanta,,TRUE
+2016,2017,74,Best Television Series - Musical or Comedy,Veep,,FALSE
+2016,2017,74,Best Television Series - Musical or Comedy,Black-ish,,FALSE
+2016,2017,74,Best Television Series - Musical or Comedy,Mozart in the Jungle,,FALSE
+2016,2017,74,Best Television Series - Musical or Comedy,Transparent,,FALSE
+2016,2017,74,Best Television Limited Series or Motion Picture Made for Television,The People v. O.J. Simpson: American Crime Story,,TRUE
+2016,2017,74,Best Television Limited Series or Motion Picture Made for Television,The Night Of,,FALSE
+2016,2017,74,Best Television Limited Series or Motion Picture Made for Television,American Crime,,FALSE
+2016,2017,74,Best Television Limited Series or Motion Picture Made for Television,The Dresser,,FALSE
+2016,2017,74,Best Television Limited Series or Motion Picture Made for Television,The Night Manager,,FALSE
+2016,2017,74,Best Performance by an Actress in a Limited Series or a Motion Picture Made for Television,Sarah Paulson,The People v. O.J. Simpson: American Crime Story,TRUE
+2016,2017,74,Best Performance by an Actress in a Limited Series or a Motion Picture Made for Television,Felicity Huffman,American Crime,FALSE
+2016,2017,74,Best Performance by an Actress in a Limited Series or a Motion Picture Made for Television,Riley Keough,The Girlfriend Experience,FALSE
+2016,2017,74,Best Performance by an Actress in a Limited Series or a Motion Picture Made for Television,Charlotte Rampling,London Spy,FALSE
+2016,2017,74,Best Performance by an Actress in a Limited Series or a Motion Picture Made for Television,Kerry Washington,Confirmation,FALSE
+2016,2017,74,Best Performance by an Actor in a Limited Series or a Motion Picture Made for Television,Tom Hiddleston,The Night Manager,TRUE
+2016,2017,74,Best Performance by an Actor in a Limited Series or a Motion Picture Made for Television,Courtney B. Vance,The People v. O.J. Simpson: American Crime Story,FALSE
+2016,2017,74,Best Performance by an Actor in a Limited Series or a Motion Picture Made for Television,Riz Ahmed,The Night Of,FALSE
+2016,2017,74,Best Performance by an Actor in a Limited Series or a Motion Picture Made for Television,Bryan Cranston,All the Way,FALSE
+2016,2017,74,Best Performance by an Actor in a Limited Series or a Motion Picture Made for Television,John Turturro,The Night Of,FALSE
+2016,2017,74,Best Performance by an Actress In A Television Series - Drama,Claire Foy,"Crown, The ",TRUE
+2016,2017,74,Best Performance by an Actress In A Television Series - Drama,Caitriona Balfe,Outlander,FALSE
+2016,2017,74,Best Performance by an Actress In A Television Series - Drama,Keri Russell,The Americans,FALSE
+2016,2017,74,Best Performance by an Actress In A Television Series - Drama,Winona Ryder,Stranger Things,FALSE
+2016,2017,74,Best Performance by an Actress In A Television Series - Drama,Evan Rachel Wood,Westworld,FALSE
+2016,2017,74,Best Performance by an Actor In A Television Series - Drama,Billy Bob Thornton,Goliath,TRUE
+2016,2017,74,Best Performance by an Actor In A Television Series - Drama,Rami Malek,Mr. Robot,FALSE
+2016,2017,74,Best Performance by an Actor In A Television Series - Drama,Bob Odenkirk,Better Call Saul,FALSE
+2016,2017,74,Best Performance by an Actor In A Television Series - Drama,Matthew Rhys,The Americans,FALSE
+2016,2017,74,Best Performance by an Actor In A Television Series - Drama,Liev Schreiber,Ray Donovan,FALSE
+2016,2017,74,Best Performance by an Actress in a Television Series - Musical or Comedy,Tracee Ellis Ross,Black-ish,TRUE
+2016,2017,74,Best Performance by an Actress in a Television Series - Musical or Comedy,Julia Louis-Dreyfus,Veep,FALSE
+2016,2017,74,Best Performance by an Actress in a Television Series - Musical or Comedy,Sarah Jessica Parker,Divorce,FALSE
+2016,2017,74,Best Performance by an Actress in a Television Series - Musical or Comedy,Issa Rae,Insecure,FALSE
+2016,2017,74,Best Performance by an Actress in a Television Series - Musical or Comedy,Gina Rodriguez,Jane The Virgin,FALSE
+2016,2017,74,Best Performance by an Actress in a Television Series - Musical or Comedy,Rachel Bloom,Crazy Ex-Girlfriend,FALSE
+2016,2017,74,Best Performance by an Actor in a Television Series - Musical or Comedy,Donald Glover,Atlanta,TRUE
+2016,2017,74,Best Performance by an Actor in a Television Series - Musical or Comedy,Anthony Anderson,Black-ish,FALSE
+2016,2017,74,Best Performance by an Actor in a Television Series - Musical or Comedy,Gael García Bernal,Mozart in the Jungle,FALSE
+2016,2017,74,Best Performance by an Actor in a Television Series - Musical or Comedy,Nick Nolte,Graves,FALSE
+2016,2017,74,Best Performance by an Actor in a Television Series - Musical or Comedy,Jeffrey Tambor,Transparent,FALSE
+2016,2017,74,"Best Performance by an Actress in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Olivia Colman,The Night Manager,TRUE
+2016,2017,74,"Best Performance by an Actress in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Lena Headey,Game of Thrones,FALSE
+2016,2017,74,"Best Performance by an Actress in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Chrissy Metz,This Is Us,FALSE
+2016,2017,74,"Best Performance by an Actress in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Mandy Moore,This Is Us,FALSE
+2016,2017,74,"Best Performance by an Actress in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Thandie Newton,Westworld,FALSE
+2016,2017,74,"Best Performance by an Actor in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Hugh Laurie,The Night Manager,TRUE
+2016,2017,74,"Best Performance by an Actor in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",John Lithgow,"Crown, The ",FALSE
+2016,2017,74,"Best Performance by an Actor in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Christian Slater,Mr. Robot,FALSE
+2016,2017,74,"Best Performance by an Actor in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",John Travolta,The People v. O.J. Simpson: American Crime Story,FALSE
+2016,2017,74,"Best Performance by an Actor in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Sterling K. Brown,The People v. O.J. Simpson: American Crime Story,FALSE
+2016,2017,74,Cecil B. deMille Award,Meryl Streep,,FALSE
+2017,2018,75,Best Motion Picture - Drama,"Three Billboards Outside Ebbing, Missouri",,TRUE
+2017,2018,75,Best Motion Picture - Drama,Call Me By Your Name,,FALSE
+2017,2018,75,Best Motion Picture - Drama,Dunkirk,,FALSE
+2017,2018,75,Best Motion Picture - Drama,The Post,,FALSE
+2017,2018,75,Best Motion Picture - Drama,The Shape of Water,,FALSE
+2017,2018,75,Best Motion Picture - Musical or Comedy,Lady Bird,,TRUE
+2017,2018,75,Best Motion Picture - Musical or Comedy,"Disaster Artist, The ",,FALSE
+2017,2018,75,Best Motion Picture - Musical or Comedy,Get Out,,FALSE
+2017,2018,75,Best Motion Picture - Musical or Comedy,The Greatest Showman,,FALSE
+2017,2018,75,Best Motion Picture - Musical or Comedy,"I, Tonya",,FALSE
+2017,2018,75,Best Performance by an Actress in a Motion Picture - Drama,Frances McDormand,"Three Billboards Outside Ebbing, Missouri",TRUE
+2017,2018,75,Best Performance by an Actress in a Motion Picture - Drama,Meryl Streep,The Post,FALSE
+2017,2018,75,Best Performance by an Actress in a Motion Picture - Drama,Michelle Williams,All The Money In The World,FALSE
+2017,2018,75,Best Performance by an Actress in a Motion Picture - Drama,Jessica Chastain,Molly's Game,FALSE
+2017,2018,75,Best Performance by an Actress in a Motion Picture - Drama,Sally Hawkins,The Shape of Water,FALSE
+2017,2018,75,Best Performance by an Actor in a Motion Picture - Drama,Gary Oldman,Darkest Hour,TRUE
+2017,2018,75,Best Performance by an Actor in a Motion Picture - Drama,Timothée Chalamet,Call Me By Your Name,FALSE
+2017,2018,75,Best Performance by an Actor in a Motion Picture - Drama,Daniel Day-Lewis,Phantom Thread,FALSE
+2017,2018,75,Best Performance by an Actor in a Motion Picture - Drama,Tom Hanks,The Post,FALSE
+2017,2018,75,Best Performance by an Actor in a Motion Picture - Drama,Denzel Washington,"Roman J. Israel, Esq.",FALSE
+2017,2018,75,Best Performance by an Actress in a Motion Picture - Musical or Comedy,Saoirse Ronan,Lady Bird,TRUE
+2017,2018,75,Best Performance by an Actress in a Motion Picture - Musical or Comedy,Judi Dench,Victoria & Abdul,FALSE
+2017,2018,75,Best Performance by an Actress in a Motion Picture - Musical or Comedy,Helen Mirren,"Leisure Seeker, The ",FALSE
+2017,2018,75,Best Performance by an Actress in a Motion Picture - Musical or Comedy,Margot Robbie,"I, Tonya",FALSE
+2017,2018,75,Best Performance by an Actress in a Motion Picture - Musical or Comedy,Emma Stone,Battle of the Sexes,FALSE
+2017,2018,75,Best Performance by an Actor in a Motion Picture - Musical or Comedy,James Franco,"Disaster Artist, The ",TRUE
+2017,2018,75,Best Performance by an Actor in a Motion Picture - Musical or Comedy,Hugh Jackman,The Greatest Showman,FALSE
+2017,2018,75,Best Performance by an Actor in a Motion Picture - Musical or Comedy,Daniel Kaluuya,Get Out,FALSE
+2017,2018,75,Best Performance by an Actor in a Motion Picture - Musical or Comedy,Steve Carell,Battle of the Sexes,FALSE
+2017,2018,75,Best Performance by an Actor in a Motion Picture - Musical or Comedy,Ansel Elgort,Baby Driver,FALSE
+2017,2018,75,Best Performance by an Actress in a Supporting Role in any Motion Picture,Allison Janney,"I, Tonya",TRUE
+2017,2018,75,Best Performance by an Actress in a Supporting Role in any Motion Picture,Mary J. Blige,Mudbound,FALSE
+2017,2018,75,Best Performance by an Actress in a Supporting Role in any Motion Picture,Hong Chau,Downsizing,FALSE
+2017,2018,75,Best Performance by an Actress in a Supporting Role in any Motion Picture,Laurie Metcalf,Lady Bird,FALSE
+2017,2018,75,Best Performance by an Actress in a Supporting Role in any Motion Picture,Octavia Spencer,The Shape of Water,FALSE
+2017,2018,75,Best Performance by an Actor in a Supporting Role in any Motion Picture,Sam Rockwell,"Three Billboards Outside Ebbing, Missouri",TRUE
+2017,2018,75,Best Performance by an Actor in a Supporting Role in any Motion Picture,Willem Dafoe,"Florida Project, The ",FALSE
+2017,2018,75,Best Performance by an Actor in a Supporting Role in any Motion Picture,Armie Hammer,Call Me By Your Name,FALSE
+2017,2018,75,Best Performance by an Actor in a Supporting Role in any Motion Picture,Richard Jenkins,The Shape of Water,FALSE
+2017,2018,75,Best Performance by an Actor in a Supporting Role in any Motion Picture,Christopher Plummer,All The Money In The World,FALSE
+2017,2018,75,Best Director - Motion Picture,Guillermo del Toro,The Shape of Water,TRUE
+2017,2018,75,Best Director - Motion Picture,Ridley Scott,All The Money In The World,FALSE
+2017,2018,75,Best Director - Motion Picture,Steven Spielberg,The Post,FALSE
+2017,2018,75,Best Director - Motion Picture,Martin McDonagh,"Three Billboards Outside Ebbing, Missouri",FALSE
+2017,2018,75,Best Director - Motion Picture,Christopher Nolan,Dunkirk,FALSE
+2017,2018,75,Best Screenplay - Motion Picture,Martin McDonagh,"Three Billboards Outside Ebbing, Missouri",TRUE
+2017,2018,75,Best Screenplay - Motion Picture,"Guillermo del Toro, Vanessa Taylor",The Shape of Water,FALSE
+2017,2018,75,Best Screenplay - Motion Picture,Greta Gerwig,Lady Bird,FALSE
+2017,2018,75,Best Screenplay - Motion Picture,"Liz Hannah, Josh Singer",The Post,FALSE
+2017,2018,75,Best Screenplay - Motion Picture,Aaron Sorkin,Molly's Game,FALSE
+2017,2018,75,Best Motion Picture - Animated,Coco,,TRUE
+2017,2018,75,Best Motion Picture - Animated,Loving Vincent,,FALSE
+2017,2018,75,Best Motion Picture - Animated,"Boss Baby, The ",,FALSE
+2017,2018,75,Best Motion Picture - Animated,"Breadwinner, The ",,FALSE
+2017,2018,75,Best Motion Picture - Animated,Ferdinand,,FALSE
+2017,2018,75,Best Motion Picture - Foreign Language,In The Fade,"Germany, Fatih Akin",TRUE
+2017,2018,75,Best Motion Picture - Foreign Language,A Fantastic Woman,"Chile, Sebastián Lelio",FALSE
+2017,2018,75,Best Motion Picture - Foreign Language,First They Killed My Father,"Cambodia, Angelina Jolie",FALSE
+2017,2018,75,Best Motion Picture - Foreign Language,Loveless,"Russia, Andrey Zvyagintsev ",FALSE
+2017,2018,75,Best Motion Picture - Foreign Language,The Square,"Sweden, Ruben Östlund",FALSE
+2017,2018,75,Best Original Score - Motion Picture,Alexandre Desplat,The Shape of Water,TRUE
+2017,2018,75,Best Original Score - Motion Picture,Carter Burwell,"Three Billboards Outside Ebbing, Missouri",FALSE
+2017,2018,75,Best Original Score - Motion Picture,Jonny Greenwood,Phantom Thread,FALSE
+2017,2018,75,Best Original Score - Motion Picture,John Williams,The Post,FALSE
+2017,2018,75,Best Original Score - Motion Picture,Hans Zimmer,Dunkirk,FALSE
+2017,2018,75,Best Original Song - Motion Picture,"""This Is Me"", Justin Paul, Benj Pasek",The Greatest Showman,TRUE
+2017,2018,75,Best Original Song - Motion Picture,"""The Star"", Mariah Carey, Marc Shaiman",The Star,FALSE
+2017,2018,75,Best Original Song - Motion Picture,"""Home"", Nick Jonas, Justin Tranter, Nick Monson",Ferdinand,FALSE
+2017,2018,75,Best Original Song - Motion Picture,"""Mighty River"", Raphael Saadiq, Taura Stinson, Mary J. Blige",Mudbound,FALSE
+2017,2018,75,Best Original Song - Motion Picture,"""Remember Me"", Kristen Anderson Lopez, Robert Lopez",Coco,FALSE
+2017,2018,75,Best Television Series - Drama,"Handmaid's Tale, The ",,TRUE
+2017,2018,75,Best Television Series - Drama,"Crown, The ",,FALSE
+2017,2018,75,Best Television Series - Drama,Game of Thrones,,FALSE
+2017,2018,75,Best Television Series - Drama,Stranger Things,,FALSE
+2017,2018,75,Best Television Series - Drama,This Is Us,,FALSE
+2017,2018,75,Best Television Series - Musical or Comedy,"Marvelous Mrs. Maisel, The",,TRUE
+2017,2018,75,Best Television Series - Musical or Comedy,Black-ish,,FALSE
+2017,2018,75,Best Television Series - Musical or Comedy,Master of None,,FALSE
+2017,2018,75,Best Television Series - Musical or Comedy,SMILF,,FALSE
+2017,2018,75,Best Television Series - Musical or Comedy,Will & Grace,,FALSE
+2017,2018,75,Best Television Limited Series or Motion Picture Made for Television,Big Little Lies,,TRUE
+2017,2018,75,Best Television Limited Series or Motion Picture Made for Television,Fargo,,FALSE
+2017,2018,75,Best Television Limited Series or Motion Picture Made for Television,Feud: Bette And Joan,,FALSE
+2017,2018,75,Best Television Limited Series or Motion Picture Made for Television,The Sinner,,FALSE
+2017,2018,75,Best Television Limited Series or Motion Picture Made for Television,Top of The Lake: China Girl,,FALSE
+2017,2018,75,Best Performance by an Actress in a Limited Series or a Motion Picture Made for Television,Nicole Kidman,Big Little Lies,TRUE
+2017,2018,75,Best Performance by an Actress in a Limited Series or a Motion Picture Made for Television,Reese Witherspoon,Big Little Lies,FALSE
+2017,2018,75,Best Performance by an Actress in a Limited Series or a Motion Picture Made for Television,Jessica Biel,The Sinner,FALSE
+2017,2018,75,Best Performance by an Actress in a Limited Series or a Motion Picture Made for Television,Jessica Lange,Feud: Bette And Joan,FALSE
+2017,2018,75,Best Performance by an Actress in a Limited Series or a Motion Picture Made for Television,Susan Sarandon,Feud: Bette And Joan,FALSE
+2017,2018,75,Best Performance by an Actor in a Limited Series or a Motion Picture Made for Television,Ewan McGregor,Fargo,TRUE
+2017,2018,75,Best Performance by an Actor in a Limited Series or a Motion Picture Made for Television,Robert De Niro,"Wizard of Lies, The",FALSE
+2017,2018,75,Best Performance by an Actor in a Limited Series or a Motion Picture Made for Television,Jude Law,"Young Pope, The",FALSE
+2017,2018,75,Best Performance by an Actor in a Limited Series or a Motion Picture Made for Television,Kyle MacLachlan,"Twin Peaks, The Return",FALSE
+2017,2018,75,Best Performance by an Actor in a Limited Series or a Motion Picture Made for Television,Geoffrey Rush,Genius,FALSE
+2017,2018,75,Best Performance by an Actress In A Television Series - Drama,Elisabeth Moss,"Handmaid's Tale, The ",TRUE
+2017,2018,75,Best Performance by an Actress In A Television Series - Drama,Katherine Langford,13 Reasons Why,FALSE
+2017,2018,75,Best Performance by an Actress In A Television Series - Drama,Caitriona Balfe,Outlander,FALSE
+2017,2018,75,Best Performance by an Actress In A Television Series - Drama,Claire Foy,"Crown, The ",FALSE
+2017,2018,75,Best Performance by an Actress In A Television Series - Drama,Maggie Gyllenhaal,"Deuce, The",FALSE
+2017,2018,75,Best Performance by an Actor In A Television Series - Drama,Sterling K. Brown,This Is Us,TRUE
+2017,2018,75,Best Performance by an Actor In A Television Series - Drama,Jason Bateman,Ozark,FALSE
+2017,2018,75,Best Performance by an Actor In A Television Series - Drama,Freddie Highmore,"Good Doctor, The",FALSE
+2017,2018,75,Best Performance by an Actor In A Television Series - Drama,Bob Odenkirk,Better Call Saul,FALSE
+2017,2018,75,Best Performance by an Actor In A Television Series - Drama,Liev Schreiber,Ray Donovan,FALSE
+2017,2018,75,Best Performance by an Actress in a Television Series - Musical or Comedy,Rachel Brosnahan,"Marvelous Mrs. Maisel, The",TRUE
+2017,2018,75,Best Performance by an Actress in a Television Series - Musical or Comedy,Pamela Adlon,Better Things,FALSE
+2017,2018,75,Best Performance by an Actress in a Television Series - Musical or Comedy,Alison Brie,GLOW,FALSE
+2017,2018,75,Best Performance by an Actress in a Television Series - Musical or Comedy,Issa Rae,Insecure,FALSE
+2017,2018,75,Best Performance by an Actress in a Television Series - Musical or Comedy,Frankie Shaw,SMILF,FALSE
+2017,2018,75,Best Performance by an Actor in a Television Series - Musical or Comedy,Aziz Ansari,Master of None,TRUE
+2017,2018,75,Best Performance by an Actor in a Television Series - Musical or Comedy,Kevin Bacon,I Love Dick,FALSE
+2017,2018,75,Best Performance by an Actor in a Television Series - Musical or Comedy,William H. Macy,Shameless,FALSE
+2017,2018,75,Best Performance by an Actor in a Television Series - Musical or Comedy,Eric McCormack,Will & Grace,FALSE
+2017,2018,75,Best Performance by an Actor in a Television Series - Musical or Comedy,Anthony Anderson,Black-ish,FALSE
+2017,2018,75,"Best Performance by an Actress in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Laura Dern,Big Little Lies,TRUE
+2017,2018,75,"Best Performance by an Actress in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Ann Dowd,"Handmaid's Tale, The ",FALSE
+2017,2018,75,"Best Performance by an Actress in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Chrissy Metz,This Is Us,FALSE
+2017,2018,75,"Best Performance by an Actress in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Michelle Pfeiffer,"Wizard of Lies, The",FALSE
+2017,2018,75,"Best Performance by an Actress in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Shailene Woodley,Big Little Lies,FALSE
+2017,2018,75,"Best Performance by an Actor in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Alexander Skarsgård,Big Little Lies,TRUE
+2017,2018,75,"Best Performance by an Actor in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",David Harbour,Stranger Things,FALSE
+2017,2018,75,"Best Performance by an Actor in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Alfred Molina,Feud: Bette And Joan,FALSE
+2017,2018,75,"Best Performance by an Actor in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Christian Slater,Mr. Robot,FALSE
+2017,2018,75,"Best Performance by an Actor in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",David Thewlis,Fargo,FALSE
+2017,2018,75,Cecil B. deMille Award,Oprah Winfrey,,FALSE
+2018,2019,76,Best Motion Picture - Drama,Bohemian Rhapsody,,TRUE
+2018,2019,76,Best Motion Picture - Drama,BlacKkKlansman,,FALSE
+2018,2019,76,Best Motion Picture - Drama,If Beale Street Could Talk,,FALSE
+2018,2019,76,Best Motion Picture - Drama,"Star Is Born, A (2018)",,FALSE
+2018,2019,76,Best Motion Picture - Drama,Black Panther,,FALSE
+2018,2019,76,Best Motion Picture - Musical or Comedy,Green Book,,TRUE
+2018,2019,76,Best Motion Picture - Musical or Comedy,Crazy Rich Asians,,FALSE
+2018,2019,76,Best Motion Picture - Musical or Comedy,"Favourite, The",,FALSE
+2018,2019,76,Best Motion Picture - Musical or Comedy,Mary Poppins Returns,,FALSE
+2018,2019,76,Best Motion Picture - Musical or Comedy,Vice,,FALSE
+2018,2019,76,Best Performance by an Actress in a Motion Picture - Drama,Glenn Close,"Wife, The",TRUE
+2018,2019,76,Best Performance by an Actress in a Motion Picture - Drama,Lady Gaga,"Star Is Born, A (2018)",FALSE
+2018,2019,76,Best Performance by an Actress in a Motion Picture - Drama,Nicole Kidman,Destroyer,FALSE
+2018,2019,76,Best Performance by an Actress in a Motion Picture - Drama,Melissa McCarthy,Can You Ever Forgive Me?,FALSE
+2018,2019,76,Best Performance by an Actress in a Motion Picture - Drama,Rosamund Pike,"Private War, A",FALSE
+2018,2019,76,Best Performance by an Actor in a Motion Picture - Drama,Rami Malek,Bohemian Rhapsody,TRUE
+2018,2019,76,Best Performance by an Actor in a Motion Picture - Drama,Bradley Cooper,"Star Is Born, A (2018)",FALSE
+2018,2019,76,Best Performance by an Actor in a Motion Picture - Drama,Willem Dafoe,At Eternity's Gate,FALSE
+2018,2019,76,Best Performance by an Actor in a Motion Picture - Drama,Lucas Hedges,Boy Erased,FALSE
+2018,2019,76,Best Performance by an Actor in a Motion Picture - Drama,John David Washington,BlacKkKlansman,FALSE
+2018,2019,76,Best Performance by an Actress in a Motion Picture - Musical or Comedy,Olivia Colman,"Favourite, The",TRUE
+2018,2019,76,Best Performance by an Actress in a Motion Picture - Musical or Comedy,Emily Blunt,Mary Poppins Returns,FALSE
+2018,2019,76,Best Performance by an Actress in a Motion Picture - Musical or Comedy,Elsie Fisher,Eighth Grade,FALSE
+2018,2019,76,Best Performance by an Actress in a Motion Picture - Musical or Comedy,Charlize Theron,Tully,FALSE
+2018,2019,76,Best Performance by an Actress in a Motion Picture - Musical or Comedy,Constance Wu,Crazy Rich Asians,FALSE
+2018,2019,76,Best Performance by an Actor in a Motion Picture - Musical or Comedy,Christian Bale,Vice,TRUE
+2018,2019,76,Best Performance by an Actor in a Motion Picture - Musical or Comedy,Lin-Manuel Miranda,Mary Poppins Returns,FALSE
+2018,2019,76,Best Performance by an Actor in a Motion Picture - Musical or Comedy,Viggo Mortensen,Green Book,FALSE
+2018,2019,76,Best Performance by an Actor in a Motion Picture - Musical or Comedy,Robert Redford,"Old Man & the Gun, The",FALSE
+2018,2019,76,Best Performance by an Actor in a Motion Picture - Musical or Comedy,John C. Reilly,Stan & Ollie,FALSE
+2018,2019,76,Best Performance by an Actress in a Supporting Role in any Motion Picture,Regina King,If Beale Street Could Talk,TRUE
+2018,2019,76,Best Performance by an Actress in a Supporting Role in any Motion Picture,Claire Foy,First Man,FALSE
+2018,2019,76,Best Performance by an Actress in a Supporting Role in any Motion Picture,Emma Stone,"Favourite, The",FALSE
+2018,2019,76,Best Performance by an Actress in a Supporting Role in any Motion Picture,Rachel Weisz,"Favourite, The",FALSE
+2018,2019,76,Best Performance by an Actress in a Supporting Role in any Motion Picture,Amy Adams,Vice,FALSE
+2018,2019,76,Best Performance by an Actor in a Supporting Role in any Motion Picture,Mahershala Ali,Green Book,TRUE
+2018,2019,76,Best Performance by an Actor in a Supporting Role in any Motion Picture,Timothée Chalamet,Beautiful Boy,FALSE
+2018,2019,76,Best Performance by an Actor in a Supporting Role in any Motion Picture,Adam Driver,BlacKkKlansman,FALSE
+2018,2019,76,Best Performance by an Actor in a Supporting Role in any Motion Picture,Richard E. Grant,Can You Ever Forgive Me?,FALSE
+2018,2019,76,Best Performance by an Actor in a Supporting Role in any Motion Picture,Sam Rockwell,Vice,FALSE
+2018,2019,76,Best Director - Motion Picture,Alfonso Cuarón,Roma,TRUE
+2018,2019,76,Best Director - Motion Picture,Bradley Cooper,"Star Is Born, A (2018)",FALSE
+2018,2019,76,Best Director - Motion Picture,Peter Farrelly,Green Book,FALSE
+2018,2019,76,Best Director - Motion Picture,Spike Lee,BlacKkKlansman,FALSE
+2018,2019,76,Best Director - Motion Picture,Adam McKay,Vice,FALSE
+2018,2019,76,Best Screenplay - Motion Picture,"Nick Vallelonga, Brian Currie, Peter Farrelly",Green Book,TRUE
+2018,2019,76,Best Screenplay - Motion Picture,"Deborah Davis, Tony McNamara","Favourite, The",FALSE
+2018,2019,76,Best Screenplay - Motion Picture,Barry Jenkins,If Beale Street Could Talk,FALSE
+2018,2019,76,Best Screenplay - Motion Picture,Adam McKay,Vice,FALSE
+2018,2019,76,Best Screenplay - Motion Picture,Alfonso Cuarón,Roma,FALSE
+2018,2019,76,Best Motion Picture - Animated,Spider-Man: Into the Spider-Verse,,TRUE
+2018,2019,76,Best Motion Picture - Animated,Incredibles 2,,FALSE
+2018,2019,76,Best Motion Picture - Animated,Isle of Dogs,,FALSE
+2018,2019,76,Best Motion Picture - Animated,Mirai,,FALSE
+2018,2019,76,Best Motion Picture - Animated,Ralph Breaks the Internet,,FALSE
+2018,2019,76,Best Motion Picture - Foreign Language,Roma,"Mexico, Alfonso Cuarón",TRUE
+2018,2019,76,Best Motion Picture - Foreign Language,Girl,"Belgium, Lukas Dhont",FALSE
+2018,2019,76,Best Motion Picture - Foreign Language,Never Look Away,"Germany, Florian Henckel von Donnersmarck",FALSE
+2018,2019,76,Best Motion Picture - Foreign Language,Shoplifters,"Japan, Hirokazu Koreeda",FALSE
+2018,2019,76,Best Motion Picture - Foreign Language,Capernaum,"Lebanon, Nadine Labaki",FALSE
+2018,2019,76,Best Original Score - Motion Picture,Justin Hurwitz,First Man,TRUE
+2018,2019,76,Best Original Score - Motion Picture,Marco Beltrami,"Quiet Place, A",FALSE
+2018,2019,76,Best Original Score - Motion Picture,Alexandre Desplat,Isle of Dogs,FALSE
+2018,2019,76,Best Original Score - Motion Picture,Ludwig Göransson,Black Panther,FALSE
+2018,2019,76,Best Original Score - Motion Picture,Marc Shaiman,Mary Poppins Returns,FALSE
+2018,2019,76,Best Original Song - Motion Picture,"Shallow, Lady Gaga, Mark Ronson, Anthony Rossomando, Andrew Wyatt","Star Is Born, A (2018)",TRUE
+2018,2019,76,Best Original Song - Motion Picture,All The Stars,Black Panther,FALSE
+2018,2019,76,Best Original Song - Motion Picture,"Girl in the Movies, Dolly Parton, Linda Perry",Dumplin',FALSE
+2018,2019,76,Best Original Song - Motion Picture,"Requiem For A Private War, Annie Lennox","Private War, A",FALSE
+2018,2019,76,Best Original Song - Motion Picture,Revelation,Boy Erased,FALSE
+2018,2019,76,Best Television Series - Drama,The Americans,,TRUE
+2018,2019,76,Best Television Series - Drama,Bodyguard,,FALSE
+2018,2019,76,Best Television Series - Drama,Homecoming,,FALSE
+2018,2019,76,Best Television Series - Drama,Killing Eve,,FALSE
+2018,2019,76,Best Television Series - Drama,Pose,,FALSE
+2018,2019,76,Best Television Series - Musical or Comedy,"Kominsky Method, The",,TRUE
+2018,2019,76,Best Television Series - Musical or Comedy,Barry,,FALSE
+2018,2019,76,Best Television Series - Musical or Comedy,"Good Place, The",,FALSE
+2018,2019,76,Best Television Series - Musical or Comedy,Kidding,,FALSE
+2018,2019,76,Best Television Series - Musical or Comedy,"Marvelous Mrs. Maisel, The",,FALSE
+2018,2019,76,Best Television Limited Series or Motion Picture Made for Television,"Assassination of Gianni Versace: American Crime Story, The",,TRUE
+2018,2019,76,Best Television Limited Series or Motion Picture Made for Television,Sharp Objects,,FALSE
+2018,2019,76,Best Television Limited Series or Motion Picture Made for Television,"Very English Scandal, A",,FALSE
+2018,2019,76,Best Television Limited Series or Motion Picture Made for Television,"Alienist, The",,FALSE
+2018,2019,76,Best Television Limited Series or Motion Picture Made for Television,Escape at Dannemora,,FALSE
+2018,2019,76,Best Performance by an Actress in a Limited Series or a Motion Picture Made for Television,Patricia Arquette,Escape at Dannemora,TRUE
+2018,2019,76,Best Performance by an Actress in a Limited Series or a Motion Picture Made for Television,Amy Adams,Sharp Objects,FALSE
+2018,2019,76,Best Performance by an Actress in a Limited Series or a Motion Picture Made for Television,Connie Britton,Dirty John,FALSE
+2018,2019,76,Best Performance by an Actress in a Limited Series or a Motion Picture Made for Television,Laura Dern,"Tale, The",FALSE
+2018,2019,76,Best Performance by an Actress in a Limited Series or a Motion Picture Made for Television,Regina King,Seven Seconds,FALSE
+2018,2019,76,Best Performance by an Actor in a Limited Series or a Motion Picture Made for Television,Darren Criss,"Assassination of Gianni Versace: American Crime Story, The",TRUE
+2018,2019,76,Best Performance by an Actor in a Limited Series or a Motion Picture Made for Television,Hugh Grant,"Very English Scandal, A",FALSE
+2018,2019,76,Best Performance by an Actor in a Limited Series or a Motion Picture Made for Television,Antonio Banderas,Genius: Picasso,FALSE
+2018,2019,76,Best Performance by an Actor in a Limited Series or a Motion Picture Made for Television,Daniel Brühl,"Alienist, The",FALSE
+2018,2019,76,Best Performance by an Actor in a Limited Series or a Motion Picture Made for Television,Benedict Cumberbatch,Patrick Melrose,FALSE
+2018,2019,76,Best Performance by an Actress In A Television Series - Drama,Sandra Oh,Killing Eve,TRUE
+2018,2019,76,Best Performance by an Actress In A Television Series - Drama,Caitriona Balfe,Outlander,FALSE
+2018,2019,76,Best Performance by an Actress In A Television Series - Drama,Elisabeth Moss,"Handmaid's Tale, The ",FALSE
+2018,2019,76,Best Performance by an Actress In A Television Series - Drama,Julia Roberts,Homecoming,FALSE
+2018,2019,76,Best Performance by an Actress In A Television Series - Drama,Keri Russell,The Americans,FALSE
+2018,2019,76,Best Performance by an Actor In A Television Series - Drama,Richard Madden,Bodyguard,TRUE
+2018,2019,76,Best Performance by an Actor In A Television Series - Drama,Jason Bateman,Ozark,FALSE
+2018,2019,76,Best Performance by an Actor In A Television Series - Drama,Stephan James,Homecoming,FALSE
+2018,2019,76,Best Performance by an Actor In A Television Series - Drama,Billy Porter,Pose,FALSE
+2018,2019,76,Best Performance by an Actor In A Television Series - Drama,Matthew Rhys,The Americans,FALSE
+2018,2019,76,Best Performance by an Actress in a Television Series - Musical or Comedy,Rachel Brosnahan,"Marvelous Mrs. Maisel, The",TRUE
+2018,2019,76,Best Performance by an Actress in a Television Series - Musical or Comedy,Kristen Bell,"Good Place, The",FALSE
+2018,2019,76,Best Performance by an Actress in a Television Series - Musical or Comedy,Candice Bergen,Murphy Brown,FALSE
+2018,2019,76,Best Performance by an Actress in a Television Series - Musical or Comedy,Alison Brie,GLOW,FALSE
+2018,2019,76,Best Performance by an Actress in a Television Series - Musical or Comedy,Debra Messing,Will & Grace,FALSE
+2018,2019,76,Best Performance by an Actor in a Television Series - Musical or Comedy,Michael Douglas,"Kominsky Method, The",TRUE
+2018,2019,76,Best Performance by an Actor in a Television Series - Musical or Comedy,Jim Carrey,Kidding,FALSE
+2018,2019,76,Best Performance by an Actor in a Television Series - Musical or Comedy,Donald Glover,Atlanta,FALSE
+2018,2019,76,Best Performance by an Actor in a Television Series - Musical or Comedy,Bill Hader,Barry,FALSE
+2018,2019,76,Best Performance by an Actor in a Television Series - Musical or Comedy,Sacha Baron Cohen,Who is America?,FALSE
+2018,2019,76,"Best Performance by an Actress in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Patricia Clarkson,Sharp Objects,TRUE
+2018,2019,76,"Best Performance by an Actress in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Alex Borstein,"Marvelous Mrs. Maisel, The",FALSE
+2018,2019,76,"Best Performance by an Actress in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Penélope Cruz,"Assassination of Gianni Versace: American Crime Story, The",FALSE
+2018,2019,76,"Best Performance by an Actress in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Thandie Newton,Westworld,FALSE
+2018,2019,76,"Best Performance by an Actress in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Yvonne Strahovski,"Handmaid's Tale, The ",FALSE
+2018,2019,76,"Best Performance by an Actor in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Ben Whishaw,"Very English Scandal, A",TRUE
+2018,2019,76,"Best Performance by an Actor in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Alan Arkin,"Kominsky Method, The",FALSE
+2018,2019,76,"Best Performance by an Actor in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Kieran Culkin,Succession,FALSE
+2018,2019,76,"Best Performance by an Actor in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Edgar Ramírez,"Assassination of Gianni Versace: American Crime Story, The",FALSE
+2018,2019,76,"Best Performance by an Actor in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Henry Winkler,Barry,FALSE
+2018,2019,76,Cecil B. deMille Award,Jeff Bridges,,FALSE
+2018,2019,76,Carol Burnett Award,Carol Burnett,,FALSE
+2019,2020,77,Best Motion Picture - Drama,1917,,TRUE
+2019,2020,77,Best Motion Picture - Drama,"Irishman, The",,FALSE
+2019,2020,77,Best Motion Picture - Drama,Joker,,FALSE
+2019,2020,77,Best Motion Picture - Drama,Marriage Story,,FALSE
+2019,2020,77,Best Motion Picture - Drama,"Two Popes, The",,FALSE
+2019,2020,77,Best Motion Picture - Musical or Comedy,Once Upon a Time...in Hollywood,,TRUE
+2019,2020,77,Best Motion Picture - Musical or Comedy,Dolemite Is My Name,,FALSE
+2019,2020,77,Best Motion Picture - Musical or Comedy,Jojo Rabbit,,FALSE
+2019,2020,77,Best Motion Picture - Musical or Comedy,Knives Out,,FALSE
+2019,2020,77,Best Motion Picture - Musical or Comedy,Rocketman,,FALSE
+2019,2020,77,Best Performance by an Actress in a Motion Picture - Drama,Renée Zellweger,Judy,TRUE
+2019,2020,77,Best Performance by an Actress in a Motion Picture - Drama,Cynthia Erivo,Harriet,FALSE
+2019,2020,77,Best Performance by an Actress in a Motion Picture - Drama,Scarlett Johansson,Marriage Story,FALSE
+2019,2020,77,Best Performance by an Actress in a Motion Picture - Drama,Saoirse Ronan,Little Women,FALSE
+2019,2020,77,Best Performance by an Actress in a Motion Picture - Drama,Charlize Theron,Bombshell,FALSE
+2019,2020,77,Best Performance by an Actor in a Motion Picture - Drama,Joaquin Phoenix,Joker,TRUE
+2019,2020,77,Best Performance by an Actor in a Motion Picture - Drama,Christian Bale,Ford v Ferrari,FALSE
+2019,2020,77,Best Performance by an Actor in a Motion Picture - Drama,Antonio Banderas,Pain and Glory,FALSE
+2019,2020,77,Best Performance by an Actor in a Motion Picture - Drama,Adam Driver,Marriage Story,FALSE
+2019,2020,77,Best Performance by an Actor in a Motion Picture - Drama,Jonathan Pryce,"Two Popes, The",FALSE
+2019,2020,77,Best Performance by an Actress in a Motion Picture - Musical or Comedy,Awkwafina,"Farewell, The",TRUE
+2019,2020,77,Best Performance by an Actress in a Motion Picture - Musical or Comedy,Ana de Armas,Knives Out,FALSE
+2019,2020,77,Best Performance by an Actress in a Motion Picture - Musical or Comedy,Cate Blanchett,"Where'd You Go, Bernadette",FALSE
+2019,2020,77,Best Performance by an Actress in a Motion Picture - Musical or Comedy,Beanie Feldstein,Booksmart,FALSE
+2019,2020,77,Best Performance by an Actress in a Motion Picture - Musical or Comedy,Emma Thompson,Late Night,FALSE
+2019,2020,77,Best Performance by an Actor in a Motion Picture - Musical or Comedy,Taron Egerton,Rocketman,TRUE
+2019,2020,77,Best Performance by an Actor in a Motion Picture - Musical or Comedy,Daniel Craig,Knives Out,FALSE
+2019,2020,77,Best Performance by an Actor in a Motion Picture - Musical or Comedy,Roman Griffin Davis,Jojo Rabbit,FALSE
+2019,2020,77,Best Performance by an Actor in a Motion Picture - Musical or Comedy,Leonardo DiCaprio,Once Upon a Time...in Hollywood,FALSE
+2019,2020,77,Best Performance by an Actor in a Motion Picture - Musical or Comedy,Eddie Murphy,Dolemite Is My Name,FALSE
+2019,2020,77,Best Performance by an Actress in a Supporting Role in any Motion Picture,Laura Dern,Marriage Story,TRUE
+2019,2020,77,Best Performance by an Actress in a Supporting Role in any Motion Picture,Annette Bening,"Report, The",FALSE
+2019,2020,77,Best Performance by an Actress in a Supporting Role in any Motion Picture,Jennifer Lopez,Hustlers,FALSE
+2019,2020,77,Best Performance by an Actress in a Supporting Role in any Motion Picture,Margot Robbie,Bombshell,FALSE
+2019,2020,77,Best Performance by an Actress in a Supporting Role in any Motion Picture,Kathy Bates,Richard Jewell,FALSE
+2019,2020,77,Best Performance by an Actor in a Supporting Role in any Motion Picture,Brad Pitt,Once Upon a Time...in Hollywood,TRUE
+2019,2020,77,Best Performance by an Actor in a Supporting Role in any Motion Picture,Tom Hanks,"Beautiful Day in the Neighborhood, A",FALSE
+2019,2020,77,Best Performance by an Actor in a Supporting Role in any Motion Picture,Anthony Hopkins,"Two Popes, The",FALSE
+2019,2020,77,Best Performance by an Actor in a Supporting Role in any Motion Picture,Al Pacino,"Irishman, The",FALSE
+2019,2020,77,Best Performance by an Actor in a Supporting Role in any Motion Picture,Joe Pesci,"Irishman, The",FALSE
+2019,2020,77,Best Director - Motion Picture,Sam Mendes,1917,TRUE
+2019,2020,77,Best Director - Motion Picture,Bong Joon Ho,Parasite,FALSE
+2019,2020,77,Best Director - Motion Picture,Todd Phillips,Joker,FALSE
+2019,2020,77,Best Director - Motion Picture,Martin Scorsese,"Irishman, The",FALSE
+2019,2020,77,Best Director - Motion Picture,Quentin Tarantino,Once Upon a Time...in Hollywood,FALSE
+2019,2020,77,Best Screenplay - Motion Picture,Quentin Tarantino,Once Upon a Time...in Hollywood,TRUE
+2019,2020,77,Best Screenplay - Motion Picture,Noah Baumbach,Marriage Story,FALSE
+2019,2020,77,Best Screenplay - Motion Picture,"Bong Joon Ho, Han Jin Won",Parasite,FALSE
+2019,2020,77,Best Screenplay - Motion Picture,Anthony McCarten,"Two Popes, The",FALSE
+2019,2020,77,Best Screenplay - Motion Picture,Steven Zaillian,"Irishman, The",FALSE
+2019,2020,77,Best Motion Picture - Animated,Missing Link,,TRUE
+2019,2020,77,Best Motion Picture - Animated,How to Train Your Dragon: The Hidden World,,FALSE
+2019,2020,77,Best Motion Picture - Animated,"Lion King, The",,FALSE
+2019,2020,77,Best Motion Picture - Animated,Toy Story 4,,FALSE
+2019,2020,77,Best Motion Picture - Animated,Frozen II,,FALSE
+2019,2020,77,Best Motion Picture - Foreign Language,Parasite,"South Korea, Bong Joon Ho",TRUE
+2019,2020,77,Best Motion Picture - Foreign Language,"Farewell, The","USA, Lulu Wang",FALSE
+2019,2020,77,Best Motion Picture - Foreign Language,Les Misérables,"France, Ladj Ly",FALSE
+2019,2020,77,Best Motion Picture - Foreign Language,Pain and Glory,"Spain, Pedro Almodóvar",FALSE
+2019,2020,77,Best Motion Picture - Foreign Language,Portrait of a Lady on Fire,"France, Céline Sciamma",FALSE
+2019,2020,77,Best Original Score - Motion Picture,Hildur Guðnadóttir,Joker,TRUE
+2019,2020,77,Best Original Score - Motion Picture,Alexandre Desplat,Little Women,FALSE
+2019,2020,77,Best Original Score - Motion Picture,Randy Newman,Marriage Story,FALSE
+2019,2020,77,Best Original Score - Motion Picture,Thomas Newman,1917,FALSE
+2019,2020,77,Best Original Score - Motion Picture,Daniel Pemberton,Motherless Brooklyn,FALSE
+2019,2020,77,Best Original Song - Motion Picture,"I'm Gonna Love Me Again, Elton John, Bernie Taupin",Rocketman,TRUE
+2019,2020,77,Best Original Song - Motion Picture,"Beautiful Ghosts, Andrew Lloyd Webber, Taylor Swift",Cats,FALSE
+2019,2020,77,Best Original Song - Motion Picture,"Into the Unknown, Kristen Anderson Lopez, Robert Lopez",Frozen II,FALSE
+2019,2020,77,Best Original Song - Motion Picture,"Spirit, Timothy McKenzie, Ilya Salmanzadeh, Beyoncé","Lion King, The",FALSE
+2019,2020,77,Best Original Song - Motion Picture,"Stand Up, Joshuah Brian Campbell, Cynthia Erivo",Harriet,FALSE
+2019,2020,77,Best Television Series - Drama,Succession,,TRUE
+2019,2020,77,Best Television Series - Drama,"Crown, The ",,FALSE
+2019,2020,77,Best Television Series - Drama,Killing Eve,,FALSE
+2019,2020,77,Best Television Series - Drama,"Morning Show, The",,FALSE
+2019,2020,77,Best Television Series - Drama,Big Little Lies,,FALSE
+2019,2020,77,Best Television Series - Musical or Comedy,Fleabag,,TRUE
+2019,2020,77,Best Television Series - Musical or Comedy,Barry,,FALSE
+2019,2020,77,Best Television Series - Musical or Comedy,"Kominsky Method, The",,FALSE
+2019,2020,77,Best Television Series - Musical or Comedy,"Marvelous Mrs. Maisel, The",,FALSE
+2019,2020,77,Best Television Series - Musical or Comedy,"Politician, The",,FALSE
+2019,2020,77,Best Television Limited Series or Motion Picture Made for Television,Chernobyl,,TRUE
+2019,2020,77,Best Television Limited Series or Motion Picture Made for Television,Catch-22,,FALSE
+2019,2020,77,Best Television Limited Series or Motion Picture Made for Television,Fosse/Verdon,,FALSE
+2019,2020,77,Best Television Limited Series or Motion Picture Made for Television,"Loudest Voice, The",,FALSE
+2019,2020,77,Best Television Limited Series or Motion Picture Made for Television,Unbelievable,,FALSE
+2019,2020,77,Best Performance by an Actress in a Limited Series or a Motion Picture Made for Television,Michelle Williams,Fosse/Verdon,TRUE
+2019,2020,77,Best Performance by an Actress in a Limited Series or a Motion Picture Made for Television,Kaitlyn Dever,Unbelievable,FALSE
+2019,2020,77,Best Performance by an Actress in a Limited Series or a Motion Picture Made for Television,Joey King,"Act, The",FALSE
+2019,2020,77,Best Performance by an Actress in a Limited Series or a Motion Picture Made for Television,Helen Mirren,Catherine the Great,FALSE
+2019,2020,77,Best Performance by an Actress in a Limited Series or a Motion Picture Made for Television,Merritt Wever,Unbelievable,FALSE
+2019,2020,77,Best Performance by an Actor in a Limited Series or a Motion Picture Made for Television,Russell Crowe,"Loudest Voice, The",TRUE
+2019,2020,77,Best Performance by an Actor in a Limited Series or a Motion Picture Made for Television,Christopher Abbott,Catch-22,FALSE
+2019,2020,77,Best Performance by an Actor in a Limited Series or a Motion Picture Made for Television,Sacha Baron Cohen,"Spy, The",FALSE
+2019,2020,77,Best Performance by an Actor in a Limited Series or a Motion Picture Made for Television,Jared Harris,Chernobyl,FALSE
+2019,2020,77,Best Performance by an Actor in a Limited Series or a Motion Picture Made for Television,Sam Rockwell,Fosse/Verdon,FALSE
+2019,2020,77,Best Performance by an Actress In A Television Series - Drama,Olivia Colman,"Crown, The ",TRUE
+2019,2020,77,Best Performance by an Actress In A Television Series - Drama,Nicole Kidman,Big Little Lies,FALSE
+2019,2020,77,Best Performance by an Actress In A Television Series - Drama,Reese Witherspoon,"Morning Show, The",FALSE
+2019,2020,77,Best Performance by an Actress In A Television Series - Drama,Jennifer Aniston,"Morning Show, The",FALSE
+2019,2020,77,Best Performance by an Actress In A Television Series - Drama,Jodie Comer,Killing Eve,FALSE
+2019,2020,77,Best Performance by an Actor In A Television Series - Drama,Brian Cox,Succession,TRUE
+2019,2020,77,Best Performance by an Actor In A Television Series - Drama,Kit Harington,Game of Thrones,FALSE
+2019,2020,77,Best Performance by an Actor In A Television Series - Drama,Rami Malek,Mr. Robot,FALSE
+2019,2020,77,Best Performance by an Actor In A Television Series - Drama,Tobias Menzies,"Crown, The ",FALSE
+2019,2020,77,Best Performance by an Actor In A Television Series - Drama,Billy Porter,Pose,FALSE
+2019,2020,77,Best Performance by an Actress in a Television Series - Musical or Comedy,Phoebe Waller-Bridge,Fleabag,TRUE
+2019,2020,77,Best Performance by an Actress in a Television Series - Musical or Comedy,Christina Applegate,Dead to Me,FALSE
+2019,2020,77,Best Performance by an Actress in a Television Series - Musical or Comedy,Rachel Brosnahan,"Marvelous Mrs. Maisel, The",FALSE
+2019,2020,77,Best Performance by an Actress in a Television Series - Musical or Comedy,Kirsten Dunst,On Becoming a God in Central Florida,FALSE
+2019,2020,77,Best Performance by an Actress in a Television Series - Musical or Comedy,Natasha Lyonne,Russian Doll,FALSE
+2019,2020,77,Best Performance by an Actor in a Television Series - Musical or Comedy,Ramy Youssef,Ramy,TRUE
+2019,2020,77,Best Performance by an Actor in a Television Series - Musical or Comedy,Bill Hader,Barry,FALSE
+2019,2020,77,Best Performance by an Actor in a Television Series - Musical or Comedy,Ben Platt,"Politician, The",FALSE
+2019,2020,77,Best Performance by an Actor in a Television Series - Musical or Comedy,Paul Rudd,Living with Yourself,FALSE
+2019,2020,77,Best Performance by an Actor in a Television Series - Musical or Comedy,Michael Douglas,"Kominsky Method, The",FALSE
+2019,2020,77,"Best Performance by an Actress in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Patricia Arquette,"Act, The",TRUE
+2019,2020,77,"Best Performance by an Actress in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Helena Bonham Carter,"Crown, The ",FALSE
+2019,2020,77,"Best Performance by an Actress in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Toni Collette,Unbelievable,FALSE
+2019,2020,77,"Best Performance by an Actress in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Meryl Streep,Big Little Lies,FALSE
+2019,2020,77,"Best Performance by an Actress in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Emily Watson,Chernobyl,FALSE
+2019,2020,77,"Best Performance by an Actor in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Stellan Skarsgård,Chernobyl,TRUE
+2019,2020,77,"Best Performance by an Actor in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Alan Arkin,"Kominsky Method, The",FALSE
+2019,2020,77,"Best Performance by an Actor in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Kieran Culkin,Succession,FALSE
+2019,2020,77,"Best Performance by an Actor in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Andrew Scott,Fleabag,FALSE
+2019,2020,77,"Best Performance by an Actor in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",Henry Winkler,Barry,FALSE
+2019,2020,77,Cecil B. deMille Award,Tom Hanks,,FALSE
+2019,2020,77,Carol Burnett Award,Ellen DeGeneres,,FALSE
